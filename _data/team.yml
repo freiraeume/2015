@@ -8,10 +8,12 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "xing", link: "https://www.xing.com/profile/Bjoern_Jensen3"}
+    - {name: "linkedin", link: "http://de.linkedin.com/in/mirouhh/"}
+    - {name: "google-plus", link: "https://google.com/+BjörnJensen_hh"}
+    - {name: "twitter", link: "https://twitter.com/mirouhh"}
+    - {name: "site", link: "http://www.improuv.com/users/björn-jensen"}
+    - {name: "github", link: "https://github.com/mirouhh"}
 - 
   id: 0
   name: "Fischbach"
@@ -22,8 +24,9 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "xing", link: "https://www.xing.com/profile/Jan_Fischbach"}
+    - {name: "linkedin", link: "http://de.linkedin.com/janfischbach/de/"}
+    - {name: "site", link: "http://www.commonsenseteam.de/"}
 - 
   id: 1
   name: "Gerber"
@@ -33,7 +36,7 @@
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+  social:  
+    - {name: "xing", link: "https://www.xing.com/profile/Sylvius_Gerber"}
+    - {name: "linkedin", link: "http://de.linkedin.com/pub/sylvius-gerber/4a/984/27/"}
+    - {name: "site", link: "http://veraenderungskraft.de/"}
