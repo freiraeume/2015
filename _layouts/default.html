@@ -24,12 +24,14 @@
     	{% include speakers-modals.html %} 
     {% endif %} 
 
+
     {% if page.permalink == '/schedule/' %}
         {% include sessions-modals.html %} 
     {% endif %} 
 
+
     {% include analytics.html %}
-    
+   
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script>
         window.jQuery || document.write('<script src="{{ "/js/jquery-2.1.1.min.js" | prepend: site.baseurl }}><\/script>')
@@ -41,15 +43,19 @@
     }
     </script>
     <script src="{{ "/js/default.js" | prepend: site.baseurl }}"></script>
+
     {% if page.permalink == '/' or page.permalink == '/hackathon/' %}
     <script>
         if ($(window).width() > 767) {
             document.write('<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"><\/script>')
         } 
     </script>
+
     {% elsif page.permalink == '/logistics/' %}
         <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
     {% endif %} 
+
+
     <script>
         Waves.displayEffect();
         {% if page.permalink == '/' %}
@@ -66,6 +72,7 @@
                 mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
             }
+
             var twitterFeedUrl = '{{ site.twitterFeed }}';
             $(document).ready(function () {
                 $(function () {
@@ -136,6 +143,7 @@
     {% endif %}
 
     {% include schema-event.html %}
+    
 </body>
 
 </html>
