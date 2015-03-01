@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 # Site Settings
 title: "freiräume 2015"
 email: "kontakt@freiraum.camp"
-description: "Das freiraum.camp 2015 ist Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
+description: "Das freiräume 2015 sind eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
 baseurl: "/zeppelin"
 url: "http://freiraum.github.io"
 permalink: "/blog/:title"
@@ -39,15 +39,15 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Teile Dein Wissen! Werde Sprecher!"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Teile Dein Wissen! Werde Sprecher!"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -56,15 +56,15 @@ eventDate: "Mai 2015"
 typeoutTextValues: '"", "Arbeiten auf Augenhöhe", "Neue Organisationsformen", "Alternativen zu Deiner Arbeitswelt", "Sammle Inspirationen", "Erkenne Chancen", "Hannover, 28.05 & 29.05.2015"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Werde Sprecher!"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Teile Dein Wissen! Werde Sprecher!"}
  - {permalink: "/#tickets", text: "Kaufe Tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Über das freiraum.camp 2015"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Konferenz", image: "conference.jpg", text: "Höre, welche Erfahrungen bisher gesammelt worden sind und hole Dir Anregungen für Deine Arbeitswelt!" }
+ - {title: "Barcamp", image: "workshop.jpg", text: "Teile Deine Erfahrungen spontan und hol Dir Feedback von den Teilnehmern!" }
+ #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
