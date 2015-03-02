@@ -51,8 +51,8 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "freiräume 2015 :: <typeout> "
-eventDate: "Mai 2015"
-typeoutTextValues: '"", "Arbeiten auf Augenhöhe", "Neue Organisationsformen", "Alternativen zu Deiner Arbeitswelt", "Sammle Inspirationen", "Erkenne Chancen", "Hannover, 28.05 & 29.05.2015"'
+eventDate: "28. & 29. Mai 2015, Hannover"
+typeoutTextValues: '"", "Arbeiten auf Augenhöhe", "Neue Organisationsformen", "Alternativen zu Deiner Arbeitswelt", "Sammle Inspirationen", "Erkenne Chancen"'
 typeoutFallback: "Auf zu neuen Arbeitswelten"
 #heroButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Teile Dein Wissen! Werde Sprecher!"}
@@ -63,14 +63,13 @@ aboutTitle: "Über das freiraum.camp 2015"
 aboutBlock:
  - {title: "Konferenz", image: "conference.jpg", text: "Höre, welche Erfahrungen bisher gesammelt worden sind und hole Dir Anregungen für Deine Arbeitswelt!" }
  - {title: "Barcamp", image: "workshop.jpg", text: "Teile Deine Erfahrungen spontan und hol Dir Feedback von den Teilnehmern!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "Teilnehmer", detail: "aus ganz D-A-CH"}
+ - {count: "100", specialCharacter: "+", info: "Teilnehmer", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
  - {count: "20", specialCharacter: "+", info: "Stunden", detail: "Austausch über moderne Arbeitswelten"}
- - {count: "8", specialCharacter: "+", info: "Referenten", detail: "aus ganz D-A-CH"}
+ - {count: "8", specialCharacter: "+", info: "Referenten", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
  - {count: "2", specialCharacter: "", info: "parallele Tracks", detail: "plus Lounge"}
 
 # Latest News Block
