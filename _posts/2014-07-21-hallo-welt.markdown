@@ -17,7 +17,7 @@ Hier mal ein paar Eckdaten, die das, was Dich beim freiraum.camp 2015 erwartet, 
 
 * **Teilnehmer**: Wir erwarten über 100 Teilnehmer
 * **Themen**: Mehr als 20 Stunden Erfahrungsaustausch und Inspiration im Kontext moderner Arbeitswelten
-* **Datum**: 29-30 Mai, klassisches Konferenzformat und Barcamp
+* **Datum**: 29. & 30.Mai, klassisches Konferenzformat und Barcamp
 * **Veranstaltungsort**: Hier sind wir noch auf der Suche und sind für jedes Angebot offen
 * **Referenten**: Wir finalisieren grad die Referenten für den klassischen Teil. Für den Barcamp - Teil ist Dein Beitrag jedoch sehr hilfreich und wertvoll
 
