@@ -5,11 +5,11 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "freiräume 2015"
+title: "freiraum.camp 2015"
 email: "kontakt@freiraum.camp"
-description: "Das freiräume 2015 sind eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
+description: "Das freiraum.camp 2015 ist eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
 baseurl: "/2015"
-url: "http://freiraeume.github.io"
+url: "http://freiraeume.github.io/2015"
 #permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -17,14 +17,14 @@ url: "http://freiraeume.github.io"
 
 # Organizer Info
 organizerName: "freiraum 2015"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerAlternateName: "freiraum.camp 2015"
+organizerDescription: "Das freiraum.camp 2015 ist eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
+organizerEmail: "kontakt@freiraum.camp"
+#organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://www.freiraum.camp/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, agile, lean, development, organisation, change, veränderung, augenhöen, intrinsify, hannover"
 twitterAccount: "@freiraum"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
