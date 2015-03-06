@@ -21,6 +21,6 @@ Hier mal ein paar Eckdaten, die das, was Dich beim freiraum.camp 2015 erwartet, 
 * **Veranstaltungsort**: Hier sind wir noch auf der Suche und sind für jedes Angebot offen
 * **Referenten**: Wir finalisieren grad die Referenten für den klassischen Teil. Für den Barcamp - Teil ist Dein Beitrag jedoch sehr hilfreich und wertvoll
 
-Weitere Details über Referenten, den Veranstaltungsort, das freiraum.camp 2015 und Hannover kommt in den nächsten Posts. Bis dahin like uns bitte auf [Facebook](), folge uns auf [Twitter](https://twitter.com/freiraumcamp), füge uns zu Deinen Zirkeln auf [Google+]() hinzu, trage Dich auf unserer [Mailingliste]() oder aboniere den [RSS feed](), damit Du nicht all zu viel vom dem verpasst, was in den nächsten Tagen noch kommt :)
+Weitere Details über Referenten, den Veranstaltungsort, das freiraum.camp 2015 und Hannover kommt in den nächsten Posts. Bis dahin like uns bitte auf [Facebook](), folge uns auf [Twitter](https://twitter.com/freiraumcamp), füge uns zu Deinen Zirkeln auf [Google+]() hinzu, trage Dich auf unserer [Mailingliste]() oder aboniere den [RSS feed](http://freiraeume.github.io/2015/feed.xml), damit Du nicht all zu viel vom dem verpasst, was in den nächsten Tagen noch kommt :)
 
 Björn, Jan & Sylvius
