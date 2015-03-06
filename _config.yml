@@ -181,10 +181,10 @@ footerBlocks:
   title: "Kontakt"
   links:
    - {link: "mailto:kontakt@freiraum.camp", text: "kontakt@freiraum.camp"}
-# -
-#  title: "FAQ"
-#  links:
-#   - {permalink: "/cod/", text: "Code of Conduct"}
+ -
+  title: "Weiteres"
+  links:
+   - {permalink: "/imprint/", text: "Impressum"}
 
 # Blog
 blogTitle: "Neuigkeiten"
