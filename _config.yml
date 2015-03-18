@@ -31,7 +31,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/forms/dxkWm53o3k"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -43,10 +43,10 @@ navigationLinks:
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
-#bottomNavigationLinks:
-# - {link: "http://bit.ly/dfua-c4p", text: "Teile Dein Wissen! Werde Sprecher!"}
-#rightNavigationButtons:
-# - {link: "http://bit.ly/dfua-c4p", text: "Teile Dein Wissen! Werde Sprecher!"}
+bottomNavigationLinks:
+ - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & werde Sprecher!"}
+rightNavigationButtons:
+ - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
 
 # Hero Block
 heroImage: "hannover.jpg"
@@ -54,8 +54,8 @@ heroTitle: "freiräume 2015 :: <typeout> "
 eventDate: "29. & 30. Mai 2015, Hannover"
 typeoutTextValues: '"", "Arbeiten auf Augenhöhe", "Neue Organisationsformen", "Alternativen zu Deiner Arbeitswelt", "Sammle Inspirationen", "Erkenne Chancen"'
 typeoutFallback: "Auf zu neuen Arbeitswelten"
-#heroButtons:
-# - {link: "http://bit.ly/dfua-c4p", text: "Teile Dein Wissen! Werde Sprecher!"}
+heroButtons:
+ - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
 # - {permalink: "/#tickets", text: "Kaufe Tickets"}
 
 # About Block
