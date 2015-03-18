@@ -43,3 +43,15 @@
     - {name: "twitter", link: "https://twitter.com/mirouhh"}
     - {name: "site", link: "http://www.improuv.com/users/björn-jensen"}
     - {name: "github", link: "https://github.com/mirouhh"}
+- 
+  id: 4
+  name: "Hüper"
+  surname: "Lars"
+  title: "tecRacer GmbH & Co. KG"
+  thumbnailUrl: LarsHueper_02.jpg
+  subTeam: true
+  social: 
+    - {name: "xing", link: "https://www.xing.com/profile/Lars_Hueper"}
+    #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
