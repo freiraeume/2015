@@ -9,7 +9,7 @@ title: "freiraum.camp 2015"
 email: "kontakt@freiraum.camp"
 description: "Das freiraum.camp 2015 ist eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
 baseurl: "/2015"
-url: "http://freiraeume.github.io/2015"
+url: "http://freiraeume.github.io"
 #permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -169,7 +169,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 socialLinks:
 # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=freiraumcamp", icon: "twitter"}
-# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.facebook.com/pages/freiraumcamp-2015-Konferenz-und-Barcamp-f%C3%BCr-moderne-Arbeitswelten/1567028996917350", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
 # -
