@@ -14,7 +14,7 @@
         }
         p {
             font-size: $base-font-size * 2;
-            font-weight: $light;
+            font-weight: $bold;
             margin-bottom: 15px;
         }
         .btn {
@@ -22,6 +22,7 @@
         }
     }
 }
+
 .typeout-fallback {
     display: none;
     @media (max-width: 767px) {
@@ -40,6 +41,7 @@
         animation: none;
     }
 }
+
 .icon-arrow-down {
     width: 32px;
     height: 32px;
