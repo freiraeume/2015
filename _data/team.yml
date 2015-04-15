@@ -8,7 +8,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "xing", link: "https://www.xing.com/profile/Jan_Fischbach"}
+    - {name: "site", link: "https://www.xing.com/profile/Jan_Fischbach"}
     - {name: "linkedin", link: "http://de.linkedin.com/in/janfischbach"}
     - {name: "google-plus", link: "https://plus.google.com/+JanFischbach"}
     - {name: "twitter", link: "https://twitter.com/jf200399"}
@@ -23,7 +23,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social:  
-    - {name: "xing", link: "https://www.xing.com/profile/Sylvius_Gerber"}
+    - {name: "site", link: "https://www.xing.com/profile/Sylvius_Gerber"}
     - {name: "linkedin", link: "http://de.linkedin.com/pub/sylvius-gerber/4a/984/27/"}
     - {name: "twitter", link: "https://twitter.com/think_lean"}
     - {name: "site", link: "http://veraenderungskraft.de/"}
@@ -37,7 +37,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "xing", link: "https://www.xing.com/profile/Bjoern_Jensen3"}
+    - {name: "site", link: "https://www.xing.com/profile/Bjoern_Jensen3"}
     - {name: "linkedin", link: "http://de.linkedin.com/in/mirouhh/"}
     - {name: "google-plus", link: "https://google.com/+BjörnJensen_hh"}
     - {name: "twitter", link: "https://twitter.com/mirouhh"}
@@ -47,11 +47,12 @@
   id: 4
   name: "Hüper"
   surname: "Lars"
-  title: "tecRacer GmbH & Co. KG"
-  thumbnailUrl: LarsHueper_02.jpg
-  subTeam: true
+  title: "Gründer Agile Wednesday"
+  thumbnailUrl: LarsHueper.jpg
+  team: true
   social: 
-    - {name: "xing", link: "https://www.xing.com/profile/Lars_Hueper"}
-    #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "https://www.xing.com/profile/Lars_Hueper"}
+    - {name: "site", link: "https://about.me/lhueper"}
+    - {name: "twitter", link: "https://twitter.com/larshueper "}
+    - {name: "twitter", link: "https://twitter.com/AgileWH "}
+
