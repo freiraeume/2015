@@ -126,20 +126,20 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-#ticketsTitle: "Pricetable"
-#ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-#ticketsOffers:
-# -
-#  name: "Early Bird"
-#  price: "350"
-#  priceCurrency: "UAH"
-#  ticketsNumber: "150"
-#  ribbon: "-5%"
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-25T10:00"
-#  validThrough: "2014-09-30T23:59"
+ticketsTitle: "Kosten"
+ticketsInfo: "Mit dem Ticket kannst Du am freiräume.camp 2015 teilnehmen. Catering ist dabei inklusive. Das einzige, was Du selbst tragen musst, sind Deine Reisekosten ;)"
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "49,-"
+  priceCurrency: "EUR"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
+  buyButtonText: "Ticket(s) kaufen"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
 # -
 #  name: "Last Chance"
 #  price: "450"
