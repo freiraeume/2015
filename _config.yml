@@ -45,8 +45,10 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & werde Sprecher!"}
+ - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
+ - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
 
 # Hero Block
 heroImage: "hannover.jpg"
@@ -56,7 +58,7 @@ typeoutTextValues: '"", "Arbeiten auf Augenhöhe", "Neue Organisationsformen", "
 typeoutFallback: "Auf zu neuen Arbeitswelten"
 heroButtons:
  - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
-# - {permalink: "/#tickets", text: "Kaufe Tickets"}
+ - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
 
 # About Block
 aboutTitle: "Über das freiraum.camp 2015"
