@@ -133,26 +133,25 @@ ticketsOffers:
   name: "Early Bird"
   price: "49,-"
   priceCurrency: "EUR"
-  ticketsNumber: "150"
-  ribbon: "-5%"
+  ticketsNumber: "50"
+  ribbon: "-25%"
   buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
   buyButtonText: "Ticket(s) kaufen"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
-# -
-#  name: "Last Chance"
-#  price: "450"
-#  priceCurrency: "UAH"
-#  ticketsNumber: "100"
-#  ribbon: "-20%"
-#  featured: true
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-10-01T00:00"
-#  validThrough: "2014-10-23T23:59"
-#  disabled: true
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-04-01T10:00"
+  validThrough: "2015-04-30T23:59"
+-
+  name: "Regulär"
+  price: "65,-"
+  priceCurrency: "EUR"
+  ticketsNumber: "100"
+  featured: true
+  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
+  buyButtonText: "ab 01.05.15"
+  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2015-05-01T00:00"
+  validThrough: "2015-05-28T23:59"
+  disabled: true
 # -
 #  name: "Student"
 #  price: "200"
