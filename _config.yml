@@ -42,7 +42,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Veranstaltungsort"}
+# - {permalink: "/logistics/", text: "Veranstaltungsort"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & werde Sprecher!"}
  - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
@@ -84,20 +84,20 @@ rockstarSpeakersTitle: "Rockstars der modernen Arbeitswelt"
 rockstarSpeakersButtonText: "Wer spricht alles in den freiräumen 2015?"
 
 # Location Block
-#locationBlockTitle: "Veranstaltungsort"
-#eventLocationName: "Haus der Wirtschaftsföderung"
-#eventLocationLink: "http://www.wirtschaftsfoerderung-hannover.de"
-#eventStreetAddress: "Vahrenwalder Str. 7"
-#eventAddressLocality: "Hannover"
-#eventAddressLocalityRegion: "Niedersachsen"
-#eventPostalCode: "30165"
-#eventAddressCountry: "Deutschland"
-#eventStartTime: "2015-05-29T09:30"
-#eventDoorTime: "09:00"
-#eventEndTime: "2015-10-30T17:00"
-#eventPlaceCoordinates: "52.386168, 9.733600"
-#mapCenterCoordinates: "52.386168, 9.733600"
-#mapMobileCenterCoordinates: "52.386168, 9.733600"
+locationBlockTitle: "Veranstaltungsort"
+eventLocationName: "Haus der Wirtschaftsföderung"
+eventLocationLink: "http://www.wirtschaftsfoerderung-hannover.de"
+eventStreetAddress: "Vahrenwalder Str. 7"
+eventAddressLocality: "Hannover"
+eventAddressLocalityRegion: "Niedersachsen"
+eventPostalCode: "30165"
+eventAddressCountry: "Deutschland"
+eventStartTime: "2015-05-29T09:30"
+eventDoorTime: "09:00"
+eventEndTime: "2015-10-30T17:00"
+eventPlaceCoordinates: "52.386168, 9.733600"
+mapCenterCoordinates: "52.386168, 9.733600"
+mapMobileCenterCoordinates: "52.386168, 9.733600"
 
 # Venue Block
 #venueBlockTitle: "Veranstaltungsort"
