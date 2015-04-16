@@ -42,7 +42,7 @@ navigationLinks:
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
-# - {permalink: "/logistics/", text: "Veranstaltungsort"}
+ - {permalink: "/logistics/", text: "Veranstaltungsort"}
 bottomNavigationLinks:
  - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & werde Sprecher!"}
  - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
@@ -84,29 +84,29 @@ rockstarSpeakersTitle: "Rockstars der modernen Arbeitswelt"
 rockstarSpeakersButtonText: "Wer spricht alles in den freiräumen 2015?"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Haus der Wirtschaftsföderung"
-eventLocationLink: "http://www.wirtschaftsfoerderung-hannover.de"
-eventStreetAddress: "Vahrenwalder Str. 7"
-eventAddressLocality: "Hannover"
-eventAddressLocalityRegion: "Niedersachsen"
-eventPostalCode: "30161"
-eventAddressCountry: "Deutschland"
-eventStartTime: "2015-05-29T09:30"
-eventDoorTime: "09:00"
-eventEndTime: "2015-10-30T17:00"
-eventPlaceCoordinates: "52.386168, 9.733600"
-mapCenterCoordinates: "52.386168, 9.733600"
-mapMobileCenterCoordinates: "52.386168, 9.733600"
+#locationBlockTitle: "Veranstaltungsort"
+#eventLocationName: "Haus der Wirtschaftsföderung"
+#eventLocationLink: "http://www.wirtschaftsfoerderung-hannover.de"
+#eventStreetAddress: "Vahrenwalder Str. 7"
+#eventAddressLocality: "Hannover"
+#eventAddressLocalityRegion: "Niedersachsen"
+#eventPostalCode: "30165"
+#eventAddressCountry: "Deutschland"
+#eventStartTime: "2015-05-29T09:30"
+#eventDoorTime: "09:00"
+#eventEndTime: "2015-10-30T17:00"
+#eventPlaceCoordinates: "52.386168, 9.733600"
+#mapCenterCoordinates: "52.386168, 9.733600"
+#mapMobileCenterCoordinates: "52.386168, 9.733600"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Haus der Wirtschaftsföderung"
-venueFeatures: []
+#venueBlockTitle: "Veranstaltungsort"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle: "Haus der Wirtschaftsföderung"
+#venueFeatures: []
 
 # Tweets Feed Block
 #tweetsFeedImage: "twitter-feed.jpg"
@@ -126,45 +126,32 @@ venueFeatures: []
 #subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Kosten"
-ticketsInfo: "Mit dem Ticket kannst Du am freiräume.camp 2015 teilnehmen. Catering ist dabei inklusive. Das einzige, was Du selbst tragen musst, sind Deine Reisekosten ;)"
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "49,-"
-  priceCurrency: "EUR"
-  ticketsNumber: "50"
-  ribbon: "-25%"
-  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
-  buyButtonText: "Ticket(s) kaufen"
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-04-01T10:00"
-  validThrough: "2015-04-30T23:59"
--
-  name: "Regulär"
-  price: "65,-"
-  priceCurrency: "EUR"
-  ticketsNumber: "100"
-  featured: true
-  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
-  buyButtonText: "ab 01.05.15"
-  #ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2015-05-01T00:00"
-  validThrough: "2015-05-28T23:59"
-  disabled: true
+#ticketsTitle: "Tickets"
+#ticketsInfo: "Mit dem Ticket kannst Du am freiräume.camp 2015 teilnehmen. Catering ist dabei inklusive. Das einzige, was Du selbst tragen musst, sind Deine Reisekosten ;)"
+#ticketsOffers:
 # -
-#  name: "Student"
-#  price: "200"
-#  priceCurrency: "UAH"
+#  name: "Early Bird"
+#  price: "49,-"
+#  priceCurrency: "EUR"
 #  ticketsNumber: "50"
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#  ribbon: "-25%"
+#  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
+#  buyButtonText: "Ticket(s) kaufen"
 #  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-23T23:59"
-#  soldOut: true
-#  soldOutText: "Sold Out"
+#  validFrom: "2015-04-01T10:00"
+#  validThrough: "2015-04-30T23:59"
+#-
+#  name: "Regulär"
+#  price: "65,-"
+#  priceCurrency: "EUR"
+#  ticketsNumber: "100"
+#  featured: true
+#  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
+#  buyButtonText: "ab 01.05.15"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2015-05-01T00:00"
+#  validThrough: "2015-05-28T23:59"
+#  disabled: true
 
 # Footer
 socialLinks:
@@ -189,7 +176,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Neuigkeiten"
-blogCommentsEnabled: false
+blogCommentsEnabled: true
 discusShortName: "freiraum"
 
 # Speakers List Block
