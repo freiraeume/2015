@@ -44,10 +44,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Veranstaltungsort"}
 bottomNavigationLinks:
- - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & werde Sprecher!"}
+# - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & werde Sprecher!"}
  - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
 rightNavigationButtons:
- - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
+# - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
  - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
 
 # Hero Block
@@ -57,14 +57,14 @@ eventDate: "29. & 30. Mai 2015, Hannover"
 typeoutTextValues: '"", "Arbeiten auf Augenhöhe", "Neue Organisationsformen", "Alternativen zu Deiner Arbeitswelt", "Sammle Inspirationen", "Erkenne Chancen"'
 typeoutFallback: "Auf zu neuen Arbeitswelten"
 heroButtons:
- - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
+# - {link: "http://goo.gl/forms/dxkWm53o3k", text: "Teile Deine Erfahrung & Werde Sprecher!"}
  - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
 
 # About Block
 aboutTitle: "Über das freiraum.camp 2015"
 aboutBlock:
  - {title: "Konferenz", image: "conference.jpg", text: "Höre, welche Erfahrungen bisher gesammelt worden sind und hole Dir Anregungen für Deine Arbeitswelt!" }
- - {title: "Barcamp", image: "workshop.jpg", text: "Teile Deine Erfahrungen spontan und hol Dir Feedback von den Teilnehmern!" }
+# - {title: "Barcamp", image: "workshop.jpg", text: "Teile Deine Erfahrungen spontan und hol Dir Feedback von den Teilnehmern!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -176,7 +176,7 @@ footerBlocks:
 
 # Blog
 blogTitle: "Neuigkeiten"
-blogCommentsEnabled: true
+blogCommentsEnabled: false
 discusShortName: "freiraum"
 
 # Speakers List Block
