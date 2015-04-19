@@ -126,32 +126,30 @@ twitterHashTag: "freiraum15"
 #subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-#ticketsTitle: "Tickets"
-#ticketsInfo: "Mit dem Ticket kannst Du am freiräume.camp 2015 teilnehmen. Catering ist dabei inklusive. Das einzige, was Du selbst tragen musst, sind Deine Reisekosten ;)"
-#ticketsOffers:
-# -
-#  name: "Early Bird"
-#  price: "49,-"
-#  priceCurrency: "EUR"
-#  ticketsNumber: "50"
-#  ribbon: "-25%"
-#  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
-#  buyButtonText: "Ticket(s) kaufen"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2015-04-01T10:00"
-#  validThrough: "2015-04-30T23:59"
-#-
-#  name: "Regulär"
-#  price: "65,-"
-#  priceCurrency: "EUR"
-#  ticketsNumber: "100"
-#  featured: true
-#  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
-#  buyButtonText: "ab 01.05.15"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2015-05-01T00:00"
-#  validThrough: "2015-05-28T23:59"
-#  disabled: true
+ticketsTitle: "Ticketpreis(e)"
+ticketsInfo: "Mit dem Ticket kannst Du am freiräume.camp 2015 teilnehmen. Catering ist dabei inklusive. Das einzige, was Du selbst tragen musst, sind Deine Reisekosten ;)"
+ticketsOffers:
+ -
+  name: "Frühbucher"
+  price: "49,-"
+  priceCurrency: "EUR"
+  ticketsNumber: "50"
+  ribbon: "-25%"
+  featured: true
+  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
+  buyButtonText: "Ticket(s) sichern!"
+  validFrom: "2015-04-01T10:00"
+  validThrough: "2015-04-30T23:59"
+ -
+  name: "Normal"
+  price: "65,-"
+  priceCurrency: "EUR"
+  ticketsNumber: "100"
+  buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
+  buyButtonText: "Startet am 01.05.2015"
+  validFrom: "2015-05-01T10:00"
+  validThrough: "2015-05-28T23:59"
+  disabled: true
 
 # Footer
 socialLinks:
