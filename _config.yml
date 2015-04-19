@@ -109,9 +109,9 @@ mapMobileCenterCoordinates: "52.386168, 9.733600"
 #venueFeatures: []
 
 # Tweets Feed Block
-#tweetsFeedImage: "twitter-feed.jpg"
-#tweetsFeedTitle: "What's Up?"
-#twitterHashTag: "devfest"
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "Was geht?"
+twitterHashTag: "freiraum15"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
