@@ -85,7 +85,7 @@ rockstarSpeakersButtonText: "Wer spricht alles in den freiräumen 2015?"
 
 # Location Block
 locationBlockTitle: "Wo?"
-eventLocationName: "Haus der Wirtschaftsföderung"
+eventLocationName: "Haus der Wirtschaftsförderung"
 eventLocationLink: "http://www.wirtschaftsfoerderung-hannover.de"
 eventStreetAddress: "Vahrenwalder Str. 7"
 eventAddressLocality: "Hannover"
@@ -105,7 +105,7 @@ mapMobileCenterCoordinates: "52.386168, 9.733600"
 #venueSmallImage1: "venue_1.jpg"
 #venueSmallImage2: "venue_2.jpg"
 #venueSmallImage3: "venue_3.jpg"
-#venueTitle: "Haus der Wirtschaftsföderung"
+#venueTitle: "Haus der Wirtschaftsförderung"
 #venueFeatures: []
 
 # Tweets Feed Block
