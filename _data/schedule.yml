@@ -1,9 +1,9 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "2015-05-29"
+  dateReadable: "29. Mai"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
+    - {title: "Erfahrungen & Kultur", color: "#90be4e"}
+    - {title: "Werkzeuge", color: "#03a9f4"}
     - {title: "Community", color: "#e91e63"}
   timeslots:
     - {
@@ -22,8 +22,8 @@
     	sessionIds: [307]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "2015-05-30"
+  dateReadable: "30. Mai"
   tracks: 
     - {title: "Android", color: "#90be4e"}
     - {title: "Web & Cloud", color: "#03a9f4"}
