@@ -45,6 +45,7 @@
   subtype: keynote
   speakers: [1]
   language: de
+  service: true
 -
   id: 201
   title: "Open Space Sessions"
@@ -52,6 +53,7 @@
   subtype: workshop
   speakers: []
   language: de
+  service: true
 -
   id: 301
   title: "Agilität im Großen – Bottom-Up braucht Top-Down"
@@ -59,6 +61,7 @@
   subtype: presentation
   speakers: [2, 3]
   language: de
+  service: true
 -
   id: 302
   title: "Wozu noch Führung? – Einblick in ein »Engagement auf Augenhöhe«"
@@ -66,6 +69,7 @@
   subtype: presentation
   speakers: [4]
   language: de
+  service: true
 -
   id: 303
   title: "Agile Unternehmenskultur bei MovingImage24"
@@ -73,6 +77,7 @@
   subtype: presentation
   speakers: [5, 6]
   language: de
+  service: true
 -
   id: 304
   title: "Anders besser - die neue Art der Zusammenarbeit"
@@ -80,6 +85,7 @@
   subtype: presentation
   speakers: [7]
   language: de
+  service: true
 -
   id: 305
   title: "Gestalter statt Opfer sein! Warum sich Organisationen ständig neu entwickeln"
@@ -87,6 +93,7 @@
   subtype: presentation
   speakers: [8]
   language: de
+  service: true
 -
   id: 306
   title: "Transformation durch die Design Thinking Praxis"
@@ -94,6 +101,7 @@
   subtype: presentation
   speakers: [9]
   language: de
+  service: true
 -
   id: 307
   title: "Coaching zukünftiger Meister"
@@ -101,6 +109,7 @@
   subtype: presentation
   speakers: [10]
   language: de
+  service: true
 -
   id: 308
   title: "Der Lean-Startup Ansatz – ein Baustein auf dem Weg zum agilen Mindset"
@@ -108,6 +117,7 @@
   subtype: presentation
   speakers: [11]
   language: de
+  service: true
 -
   id: 309
   title: "Extreme agile leadership – Ansätze für kooperative Führung in einer agilen Organisation"
@@ -115,6 +125,7 @@
   subtype: presentation
   speakers: [12, 13]
   language: de
+  service: true
 -
   id: 310
   title: "Wirtschaft hacken"
@@ -122,6 +133,7 @@
   subtype: presentation
   speakers: [14]
   language: de
+  service: true
 -
   id: 311
   title: "System-Veränderung von innen"
@@ -129,6 +141,7 @@
   subtype: presentation
   speakers: [15]
   language: de
+  service: true
 -
   id: 312
   title: "Vom Versuch, etwas Sinnvolles zu tun und davon leben zu können"
@@ -136,6 +149,7 @@
   subtype: presentation
   speakers: [16]
   language: de
+  service: true
 -
   id: 313
   title: "The integrated Social Business"
@@ -143,6 +157,7 @@
   subtype: presentation
   speakers: [17]
   language: de
+  service: true
 -
   id: 314
   title: "Design-Thinking für Product Owner: Videoprototyping"
@@ -150,6 +165,7 @@
   subtype: presentation
   speakers: [18]
   language: de
+  service: true
 -
   id: 315
   title: "Freiraum tut (auch) weh..."
@@ -157,6 +173,7 @@
   subtype: presentation
   speakers: [19]
   language: de
+  service: true
 -
   id: 316
   title: "Die Angst vor der Augenhöhe - von der Angstkultur zur Vertrauenskultur"
@@ -164,3 +181,4 @@
   subtype: presentation
   speakers: [20]
   language: de
+  service: true
