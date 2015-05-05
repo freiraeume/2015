@@ -10,7 +10,7 @@ email: "kontakt@freiraum.camp"
 description: "Das freiraum.camp 2015 ist eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
 baseurl: "/2015"
 url: "http://freiraeume.github.io"
-permalink: "/blog/:title"
+#permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
@@ -135,21 +135,21 @@ ticketsOffers:
   priceCurrency: "EUR"
   ticketsNumber: "50"
   ribbon: "-25%"
-  featured: true
   buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
-  buyButtonText: "Ticket(s) sichern!"
+  buyButtonText: "Ausverkauft"
   validFrom: "2015-04-01T10:00"
   validThrough: "2015-04-30T23:59"
+  disabled: true
  -
   name: "Normal"
   price: "65,-"
   priceCurrency: "EUR"
   ticketsNumber: "100"
+  featured: true
   buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
-  buyButtonText: "Startet am 01.05.2015"
+  buyButtonText: "Ticket(s) kaufen!"
   validFrom: "2015-05-01T10:00"
   validThrough: "2015-05-28T23:59"
-  disabled: true
 
 # Footer
 socialLinks:
