@@ -2,9 +2,8 @@
   date: "2015-05-29"
   dateReadable: "29. Mai"
   tracks: 
-    - {title: "Thema", color: "#90be4e"}
-    - {title: "Track 1", color: "#03a9f4"}
-    - {title: "Track 2", color: "#e91e63"}
+    - {title: "Track 1", color: "#90be4e"}
+    - {title: "Track 2", color: "#03a9f4"}
   timeslots:
     - {
     	startTime: "09:00",
