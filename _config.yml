@@ -39,7 +39,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Veranstaltungsort"}
@@ -71,7 +71,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "Teilnehmer", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
  - {count: "20", specialCharacter: "+", info: "Stunden", detail: "Austausch über moderne Arbeitswelten"}
- - {count: "8", specialCharacter: "+", info: "Referenten", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
+ - {count: "20", specialCharacter: "+", info: "Referenten", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
  - {count: "2", specialCharacter: "", info: "parallele Tracks", detail: "plus Lounge"}
 
 # Latest News Block

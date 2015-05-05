@@ -1,50 +1,206 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
+  title: "Registrierung"
+  place: "Aula"
+  service: true
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Beginner"
+  title: "Eröffnung durch die Veranstalter"
+  place: "Aula"
+  service: true
 -
   id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Expert"
+  title: "Mittagspause"
+  place: "Aula"
+  service: true
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
+  title: "Pause"
+  place: "Aula"
+  service: true
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Gemeinsame Zusammenfassung des ersten Tages. Diskussion."
+  place: "Aula"
+  service: true
+-
+  id: 006
+  title: "Vorführung des Filmes 'Augenhöhe' als Ausklang der Veranstaltung"
+  place: "Aula"
+  service: true
+-
+  id: 007
+  title: "Begrüßung, Vorstellung Open Space, Themen sammeln"
+  place: "Aula"
+  service: true
+-
+  id: 008
+  title: "Kurzvorstellung der Session-Ergebnisse, Abschluss  durch die Veranstalter & Ausklang der Veranstaltung"
+  place: "Aula"
+  service: true
+-
+  id: 101
+  title: "Organisation für Komplexität: Wie wir Unternehmen und Arbeit verändern werden für Höchstleistung in einer dynamischen Welt – schneller als wir glauben"
+  description: "tba."
   subtype: keynote
+  speakers: [1]
+  language: de
+-
+  id: 201
+  title: "Open Space Sessions"
+  description: 
+  subtype: workshop
+  speakers: []
+  language: de
+-
+  id: 301
+  title: "Agilität im Großen – Bottom-Up braucht Top-Down"
+  description: "tba."
+  subtype: presentation
+  speakers: [2, 3]
+  language: de
+-
+  id: 302
+  title: "Wozu noch Führung? – Einblick in ein »Engagement auf Augenhöhe«"
+  description: "tba."
+  subtype: presentation
+  speakers: [4]
+  language: de
+-
+  id: 303
+  title: "Agile Unternehmenskultur bei MovingImage24"
+  description: "tba."
+  subtype: presentation
+  speakers: [5, 6]
+  language: de
+-
+  id: 304
+  title: "Anders besser - die neue Art der Zusammenarbeit"
+  description: "tba."
+  subtype: presentation
   speakers: [7]
-  language: en
-  complexity: "Expert"
+  language: de
+-
+  id: 305
+  title: "Gestalter statt Opfer sein! Warum sich Organisationen ständig neu entwickeln"
+  description: "tba."
+  subtype: presentation
+  speakers: [8]
+  language: de
+-
+  id: 306
+  title: "Transformation durch die Design Thinking Praxis"
+  description: "tba."
+  subtype: presentation
+  speakers: [9]
+  language: de
+-
+  id: 307
+  title: "Coaching zukünftiger Meister"
+  description: "tba."
+  subtype: presentation
+  speakers: [10]
+  language: de
+-
+  id: 308
+  title: "Der Lean-Startup Ansatz – ein Baustein auf dem Weg zum agilen Mindset"
+  description: "tba."
+  subtype: presentation
+  speakers: [11]
+  language: de
+-
+  id: 309
+  title: "Extreme agile leadership – Ansätze für kooperative Führung in einer agilen Organisation"
+  description: "tba."
+  subtype: presentation
+  speakers: [12, 13]
+  language: de
+-
+  id: 310
+  title: "Wirtschaft hacken"
+  description: "tba."
+  subtype: presentation
+  speakers: [14]
+  language: de
+-
+  id: 311
+  title: "System-Veränderung von innen"
+  description: "tba."
+  subtype: presentation
+  speakers: [15]
+  language: de
+-
+  id: 312
+  title: "Vom Versuch, etwas Sinnvolles zu tun und davon leben zu können"
+  description: "tba."
+  subtype: presentation
+  speakers: [16]
+  language: de
+-
+  id: 313
+  title: "The integrated Social Business"
+  description: "tba."
+  subtype: presentation
+  speakers: [17]
+  language: de
+-
+  id: 314
+  title: "Design-Thinking für Product Owner: Videoprototyping"
+  description: "tba."
+  subtype: presentation
+  speakers: [18]
+  language: de
+-
+  id: 315
+  title: "Freiraum tut (auch) weh..."
+  description: "tba."
+  subtype: presentation
+  speakers: [19]
+  language: de
+-
+  id: 316
+  title: "Die Angst vor der Augenhöhe - von der Angstkultur zur Vertrauenskultur"
+  description: "tba."
+  subtype: presentation
+  speakers: [20]
+  language: de
+#-
+#  id: 001
+#  title: "Material design: Visual style and imagery"
+#  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+#  subtype: workshop
+ # speakers: [3, 6]
+#  language: en
+#  complexity: "Intermediate"
+#-
+#  id: 002
+#  title: "Building Cloud-powered wearable Apps"
+#  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
+#  subtype: presentation
+#  speakers: [4, 5]
+#  language: en
+#  complexity: "Beginner"
+#-
+#  id: 003
+#  title: "The world is your playground - go global with Google"
+#  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+#  subtype: presentation
+#  speakers: [4]
+#  language: en
+#  complexity: "Expert"
+#-
+#  id: 004
+#  title: "Polymer: Interacting with Google Services using nothing but HTML"
+#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#  subtype: keynote
+#  speakers: [6]
+#  language: uk
+#  complexity: "Beginner"
+#-
+#  id: 005
+#  title: "Test: Interacting with Google Services using nothing but HTML"
+#  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+#  subtype: keynote
+#  speakers: [7]
+#  language: en
+#  complexity: "Expert"

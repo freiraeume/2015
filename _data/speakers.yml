@@ -1,7 +1,227 @@
+-
+  id: 1
+  name: "Pflaeging"
+  surname: "Niels"
+  company: "tbd."
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+-
+  id: 2
+  name: "Waschk"
+  surname: "Stefan"
+  company: "Volkswagen AG"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 3
+  name: "Wefers"
+  surname: "Thorsten"
+  company: "Volkswagen AG"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 4
+  name: "Rudnick"
+  surname: "Jürgen"
+  company: "I.Q. Institut für Qualität im Management"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 5
+  name: "Erdal"
+  surname: "Ahlatci"
+  company: "Moving Images 24"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 6
+  name: "Nauber"
+  surname: "Marco"
+  company: "Moving Images 24"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 7
+  name: "Heines"
+  surname: "Anke"
+  company: "LEADaktiv UG"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 8
+  name: "Mohme"
+  surname: "Matthias"
+  company: "Hood Group"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 9
+  name: "Açar"
+  surname: "Ahmet"
+  company: "tba."
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 10
+  name: "Schwab"
+  surname: "Stephan"
+  company: "Caimito"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 11
+  name: "Ramus"
+  surname: "Thorsten"
+  company: "Hannover Impuls"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 12
+  name: "Herwarth von Bittenfeld"
+  surname: "Paul"
+  company: "//Seibert/Media"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 13
+  name: "Seibert"
+  surname: "Joachim"
+  company: "//Seibert/Media"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 14
+  name: "Lübbermann"
+  surname: "Uwe"
+  company: "Premium-Cola"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 15
+  name: "Koglin"
+  surname: "Patrick"
+  company: "Koglin.net"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 16
+  name: "Leppelt"
+  surname: "Peter"
+  company: "Praemandatum"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 17
+  name: "Neuss"
+  surname: "Lukas"
+  company: "neuss.cc"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 18
+  name: "Krause"
+  surname: "Alexander"
+  company: "AGIL INFORM"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 19
+  name: "Preuß"
+  surname: "Ilja"
+  company: "IT-Agile"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
+- 
+  id: 20
+  name: "Neidhardt"
+  surname: "Christine"
+  company: "ecomenta"
+  title: "tbd."
+  bio: "tbd."
+  thumbnailUrl: 
+  rockstar: true
+  social:
+  #  - {name: "", link: "" }
 #- 
-#  id: 3
-#  name: "Dawid"
-#  surname: "Ostrowski"
+#  id: 103
+#  name: "Pflaeging"
+#  surname: "Pflaeging"
 #  company: "Google Poland"
 #  title: "Developer Relations Program Manager"
 #  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
@@ -10,7 +230,7 @@
 #  social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 #- 
-#  id: 4
+#  id: 104
 #  name: "Dmytro"
 #  surname: "Danylyk"
 #  company: "Lemberg Solutions Limited"
@@ -23,7 +243,7 @@
 #    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 #- 
-#  id: 5
+#  id: 105
 #  name: "Mateusz"
 #  surname: "Herych"
 #  company: "Base CRM, GDG Krakow"
@@ -38,7 +258,7 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
 #    - {name: "twitter", link: "https://twitter.com/mherych"}
 #- 
-#  id: 6
+#  id: 106
 #  name: "Roman"
 #  surname: "Mazur"
 #  company: "Stanfy, GDG Kyiv"
@@ -52,7 +272,7 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
 #    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 #- 
-#  id: 7
+#  id: 107
 #  name: "Valentyn"
 #  surname: "Shybanov"
 #  company: "Twinfield, GDG Kyiv"
