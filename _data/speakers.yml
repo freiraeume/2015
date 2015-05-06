@@ -2,9 +2,9 @@
   id: 1
   surname: "Pflaeging"
   name: "Niels"
-  company: "tbd."
-  title: "tbd."
-  bio: "tbd."
+  company: ""
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -14,8 +14,8 @@
   surname: "Waschk"
   name: "Stefan"
   company: "Volkswagen AG"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -25,8 +25,8 @@
   surname: "Wefers"
   name: "Thorsten"
   company: "Volkswagen AG"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -36,8 +36,8 @@
   surname: "Rudnick"
   name: "Jürgen"
   company: "I.Q. Institut für Qualität im Management"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -47,8 +47,8 @@
   surname: "Erdal"
   name: "Ahlatci"
   company: "Moving Images 24"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -58,8 +58,8 @@
   surname: "Nauber"
   name: "Marco"
   company: "Moving Images 24"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -69,8 +69,8 @@
   surname: "Heines"
   name: "Anke"
   company: "LEADaktiv UG"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -80,8 +80,8 @@
   surname: "Mohme"
   name: "Matthias"
   company: "Hood Group"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -90,9 +90,9 @@
   id: 9
   surname: "Açar"
   name: "Ahmet"
-  company: "tba."
-  title: "tbd."
-  bio: "tbd."
+  company: ""
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -102,8 +102,8 @@
   surname: "Schwab"
   name: "Stephan"
   company: "Caimito"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -113,8 +113,8 @@
   surname: "Ramus"
   name: "Thorsten"
   company: "Hannover Impuls"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -124,8 +124,8 @@
   surname: "Herwarth von Bittenfeld"
   name: "Paul"
   company: "//Seibert/Media"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -135,8 +135,8 @@
   surname: "Seibert"
   name: "Joachim"
   company: "//Seibert/Media"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -146,8 +146,8 @@
   surname: "Lübbermann"
   name: "Uwe"
   company: "Premium-Cola"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -157,8 +157,8 @@
   surname: "Koglin"
   name: "Patrick"
   company: "Koglin.net"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -168,8 +168,8 @@
   surname: "Leppelt"
   name: "Peter"
   company: "Praemandatum"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -179,8 +179,8 @@
   surname: "Neuss"
   name: "Lukas"
   company: "neuss.cc"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -190,8 +190,8 @@
   surname: "Krause"
   name: "Alexander"
   company: "AGIL INFORM"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -201,8 +201,8 @@
   surname: "Preuß"
   name: "Ilja"
   company: "IT-Agile"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
@@ -212,8 +212,8 @@
   surname: "Neidhardt"
   name: "Christine"
   company: "ecomenta"
-  title: "tbd."
-  bio: "tbd."
+  title: ""
+  bio: ""
   thumbnailUrl: 
   rockstar: true
   social:
