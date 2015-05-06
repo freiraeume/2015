@@ -52,7 +52,6 @@
   description: 
   subtype: workshop
   speakers: []
-  language: de
   service: true
 -
   id: 301
@@ -62,124 +61,123 @@
 "
   subtype: presentation
   speakers: [2, 3]
-  language: de
 -
   id: 302
   title: "Wozu noch Führung? – Einblick in ein »Engagement auf Augenhöhe«"
-  description: "tba."
+  description: "Es ist nicht verwunderlich, dass das I. Q. Institut für Qualität im Management auf eine Veranstaltung mit den Begriffen »Freiraum« und »auf Augenhöhe« aufmerksam wird, schließlich haben wir uns das »Engagement auf Augenhöhe« als Claim selbst auf die Fahnen geschrieben und bieten mit unseren »FreiRäumen« Orte für Zusammenarbeit an. Glücklicherweise sind die Überschneidungen nicht nur wortwörtlicher Art: Wir sind bereits seit vielen Jahren als Berater für Führungskräfte tätig und Experten für Fragen der Organisationsentwicklung, Veränderungs- und Umsetzungsberatung sowie Führungskräfteentwicklung.
+<br /><br />Dennoch oder gerade deshalb treiben uns schon seit einiger Zeit die Fragen um, die nun auch in den Medien, im akademischen Kontext oder Veranstaltung wie dieser intensiv diskutiert werden: Wie kann Zusammenarbeit heute aussehen und welche Formen finden wir, ExpertInnen auch kurzfristig zu einer erfolgreichen Projektgruppe zu formieren? Warum finden nur wenige der bereits vorhandenen Tools Einzug in den Alltag? Was bedeutet Führung und vor allem: Brauchen wir überhaupt noch Führungskräfte? 
+<br /><br />Unsere Erfahrung zeigt: Eine Gruppe von Experten, von erwachsenen Menschen, benötigt keinen Dompteur, Vorangeher, Zurechtweiser, Entscheider. Sie benötigt einen geeigneten Rahmen, Methoden und Tools um Erfahrung, Wissen und Kreativität in den produktiven Prozess einzubringen und ihn gemeinsam zu gestalten. Sie benötigt ein gemeinsames Leitbild und Personen, die die Zusammenarbeit fördern und in Konflikten geschickt und empathisch als Mediator wirken.
+<br /><br />In unserem Konzept »Die Gruppe als Denkeinheit« geben wir diesem Thema eine geeignete Plattform. In einem Spannungsfeld unterschiedlicher Persönlichkeiten, Meinungen, Haltungen und Interessen gelingt es durch wirkungsvolle Methoden, Synergien für Produktivität und Innovation entstehen zu lassen. So lässt sich das Potenzial aller nutzen. Durch unseren besonderen Ansatz entwickelt sich die Haltung der Gruppenmitglieder von einem Gefühl der Notwendigkeit zu einem freiwilligen Mitgehen hin zu besseren Ergebnissen, produktiven Treffen und einer leistungsfähigen Denkeinheit.
+"
   subtype: presentation
   speakers: [4]
-  language: de
-  service: true
 -
   id: 303
   title: "Agile Unternehmenskultur bei MovingImage24"
-  description: "tba."
+  description: "Agile Methoden wie Scrum und Kanban wurden auch bei MovingIMAGE24 in der Software-entwicklung angewendet. Das Arbeiten mit agilen Methoden allein sichert noch keinen nachhaltigen Erfolg für das Unternehmen.  Das Problem bei uns war, dass die Entwicklungsabteilung isoliert und durch die agile Arbeitsweise wie ein Fremdkörper im Unternehmen wahrgenommen wurde. Die Werte, die bei Scrum wichtig sind, kann man nur leben, wenn im gesamten Unternehmen ein agiles Verständnis vorherrscht. 
+<br /><br />Deswegen haben wir uns entschieden das gesamte Unternehmen zu revolutionieren und ein eigenes Framework auf Basis von Scrum zu entwickeln. Wir sind der Meinung, ohne eine agile Unternehmenskultur ist Scrum zum Scheitern verurteilt. Was bedeutet agile Unternehmenskultur? Was muss sich im Unternehmen grundsätzlich ändern? Wie kann man Scrum skalieren? Wie kann man komplette Transparenz erzeugen? Diese und weitere Fragen werden wir bei unserem Vortrag anhand von Videos und Grafiken erläutern.
+"
   subtype: presentation
   speakers: [5, 6]
-  language: de
-  service: true
 -
   id: 304
   title: "Anders besser - die neue Art der Zusammenarbeit"
-  description: "tba."
+  description: "Alle sind am Rotieren, doch die Ergebnisse lassen zu wünschen übrig? Kommt Dir das bekannt vor? Die Erfahrung aus der Praxis hat gezeigt, dass fast alle Unternehmen in Optimierungsprozessen gefangen sind. 
+<br /><br />Veränderung ist aber keine Optimierung! In dynamischen Umwelten kommt alles darauf an, dass dein Unternehmen gut in der sich immer schneller verändernden Umwelt agieren kann, ganz egal ob es sich um komplexere Kundenanforderungen handelt, neue  Technologien benötigt werden oder es an fachlich passenden Bewerbern mangelt. 
+<br /><br />Die Art der Zusammenarbeit im Unternehmen muss sich ändern, um mit diesen Veränderungen Schritt halten zu können. Dass dies in der Praxis hervorragend funktioniert, ist am Beispiel des Maschinenbauers HEMA zu sehen. In einem nur gut ein Jahr dauernden Veränderungsprozess hat sich das Unternehmen neu erfunden und wurde dafür mit dem New Work Award ausgezeichnet. 
+<br /><br />Am Praxisbeispiel von HEMA wird gezeigt, wie mittels der neuen Art der Zusammenarbeit Umsetzungsstärke ins Unternehmen gebracht wird: Anders besser!
+"
   subtype: presentation
   speakers: [7]
-  language: de
-  service: true
 -
   id: 305
   title: "Gestalter statt Opfer sein! Warum sich Organisationen ständig neu entwickeln"
-  description: "tba."
+  description: "Bevor die Frage nach der zukünftigen Gestaltung der Arbeitswelt beantwortet werden kann, müssen wir zunächst verstehen, warum und in welcher Form Unternehmen heute überhaupt existieren. Mit diesem Wissen, einer Portion Objektivität und einem Schuss Humor möchte ich euch auf eine Reise durch 10.000 Jahre Menschheitsgeschichte nehmen und anhand meines eigenen Karrierepfades aufdecken, dass wir nicht Opfer sondern Gestalter einer neuen Welt sind."
   subtype: presentation
   speakers: [8]
-  language: de
-  service: true
 -
   id: 306
   title: "Transformation durch die Design Thinking Praxis"
-  description: "tba."
+  description: "Design Thinking ist nicht nur ein Werkzeug zur Schaffung von exzellenten Erlebnissen für Nutzer. Der Ansatz ist in erster Linie zur Förderung von Kreativität und Umsetzungsstärke in Gruppen gedacht. Mittels Design Thinking wird die Entwicklung der Organisation weg von klassischen Trainings und hin zum Learning by Doing geführt. Design Thinking transformiert Konzernmenschen zu Machern."
   subtype: presentation
   speakers: [9]
-  language: de
-  service: true
 -
   id: 307
   title: "Coaching zukünftiger Meister"
-  description: "tba."
+  description: "Die Welt um uns herum ist komplex. Teams sind in komplexen Situation Arbeitsgruppen überlegen. Team-Coaching am Arbeitsplatz ist eine effektive Methode, um technischen Spezialisten zu helfen als Team in komplexen Situationen höhere Beiträge zur Wertschaffung des Unternehmens zu leisten."
   subtype: presentation
   speakers: [10]
-  language: de
-  service: true
 -
   id: 308
   title: "Der Lean-Startup Ansatz – ein Baustein auf dem Weg zum agilen Mindset"
-  description: "tba."
+  description: "Nach einer Einführung zu den Prinzipien des Lean-Startup Ansatzes und der Erläuterung einiger Cases, die ich betreut habe, schlage ich die Brücke zum agilen Mindset, und welche Denkweise dafür notwendig ist."
   subtype: presentation
   speakers: [11]
-  language: de
-  service: true
 -
   id: 309
   title: "Extreme agile leadership – Ansätze für kooperative Führung in einer agilen Organisation"
-  description: "tba."
+  description: "In diesem Vortrag möchten wir zeigen, welchen Einfluss die Einführung von agiler Softwareentwicklung auf unser Führungsverständnis hatte und welche tiefgreifenden Veränderungen für die gesamte Organisation wir daraus gemeinsam entwickelt haben. Insbesondere wollen wir die folgenden konkreten Punkte vorstellen:
+<ul>
+<li>Von der Pyramide zum Pfirsich: Einfluss des agilen Arbeitens auf die Unternehmensorganisation
+<li>Vom geschlossenen Strategiemeeting zum unternehmensweiten Open Space
+<li>Von der individuellen Zielvereinbarung zum gemeinsamen Verbesserungsprozess
+<li>Vom Vorgesetzten zum Mentorenteam: Dezentralisierung der Personalentwicklung
+<li>Vom Zentrum in die Peripherie: Wer entscheidet hier eigentlich?
+</ul>
+"
   subtype: presentation
   speakers: [12, 13]
-  language: de
-  service: true
 -
   id: 310
   title: "Wirtschaft hacken"
-  description: "tba."
+  description: "Das Unternehmen Premium hat vieles nicht: eine Geschäftsführung, eigene Standorte, angestellte Mitarbeiter. Alle arbeiten, wann und wo und weitgehend wie sie wollen. Stundenkontrollen gibt es auch nicht. Dafür gibt es Einheitslöhne (plus Kinder- und Behinderungszuschlag), Absicherung im Krankheitsfall, Konto-Vollmachten im Kollektiv, und das wichtigste: alle Entscheidungen werden in Konsensdemokratie getroffen. Das heißt, es kann zwar jeder zu jedem Thema Vorschläge einreichen, aber ein Veto eines Beteiligten (egal ob intern oder extern, Groß- oder Endkunden) kann jeden Vorschlag blockieren.
+<br />Das kann ja gar nicht funktionieren, oder doch?
+"
   subtype: presentation
   speakers: [14]
-  language: de
-  service: true
 -
   id: 311
   title: "System-Veränderung von innen"
-  description: "tba."
+  description: "In wie weit ist es möglich eine Organisation und Kultur von innen heraus zu verändern? Wo liegen die Grenzen des Machbaren und gibt es möglicherweise sogar Gefahren bei der Veränderungsarbeit?
+<br /><br />Die vergangenen zehn Jahre begleitete ich Unternehmen und Teams in unterschiedlichen Branchen, Regionen und Kulturen. Dabei habe ich Kooperation, kontinuierliches Wachstum und erfolgreiche Projektarbeit angestrebt. Es hat oft, aber nicht immer immer funktioniert.
+<br /><br />In diesem Vortrag möchte ich vermitteln woran man erkennt, wann es sich lohnt für Veränderung einzustehen, wie man das am Besten tut und wann man es lieber bleiben lässt.
+"
   subtype: presentation
   speakers: [15]
-  language: de
-  service: true
 -
   id: 312
   title: "Vom Versuch, etwas Sinnvolles zu tun und davon leben zu können"
-  description: "tba."
+  description: "...und wie sich dieser Gedanke auf alle Mitarbeiter übertragen lässt: 
+<br />Organisationsform, Strukturen, Prozesse, Führung und Skalierfähigkeit in einer asynchronen und dezentralen Firma mit maximalen Freiheitsgraden. Die Prinzipien, auf denen das Ganze aufbaut, klingen gut und sind schnell einzusehen - wie es jedoch in der Praxis funktioniert und welche Probleme auftreten, ist doch häufig überraschend und herausfordernd.
+"
   subtype: presentation
   speakers: [16]
-  language: de
-  service: true
 -
   id: 313
   title: "The integrated Social Business"
-  description: "tba."
+  description: "Viele Unternehmen beginnen aufgrund von externen Einflüssen mit Einzelmaßnahmen in Bereichen wie Social Marketing, Crowdsourcing, Influencer Relations oder auch Social Collaboration. Die Digitalisierung verlangt weit mehr von uns: Ein integriertes Verständnis sozialer Technologien und damit die Öffnung von Organisationen nach außen. Warum sollten z.B. möglichst viele Mitarbeiterintern wie extern zu Bloggern werden? Warum sollten sie twittern? Weil sie so erst ihr Wissen teilen, und anschließend zu wichtigen Markenbotschaftern werden. Diese Session liefert wissenschaftliche Ansätze sowie Beispiele aus der Praxis."
   subtype: presentation
   speakers: [17]
-  language: de
-  service: true
 -
   id: 314
   title: "Design-Thinking für Product Owner: Videoprototyping"
-  description: "tba."
-  subtype: presentation
+  description: "Eine schnelle und günstige Methode, um mit einfachsten Mitteln und ohne Vorkenntnisse eine unterhaltsame und bewertbare Visualisierung eines komplizierten Zusammenhangs zu erstellen.
+<br /><br />Aber das ist nicht alles: Mitarbeiter werden zu Mitdenkern, Geschichten begeistern und fördern das Begreifen, ein systemischer Blick auf Nutzer und Produkt stärkt die Innovationskultur.
+<br /><br />In nur 100 Minuten erleben Sie einen straff getimeboxten Prozess und liefern am Ende eine User-Journey als Kurzfilm.
+"
+  subtype: workshop
   speakers: [18]
-  language: de
-  service: true
 -
   id: 315
   title: "Freiraum tut (auch) weh..."
-  description: "tba."
+  description: "Vor zehn Jahren wurde it-agile von Kollegen als Gegenentwurf zu traditionellen Unternehmen gegründet: die Firma gehört allen gemeinsam, Entscheidungen werden von allen zusammen getroffen.
+<br /><br />Wir stellen fest, dass das bereits mit dreißig Leuten gar nicht so einfach ist. Wo wir naiv waren, was wir gelernt haben; welche Fragen weiterhin offen sind, was für Schmerzen wir weiterhin haben und wie wir daran arbeiten; und warum wir weiter am Traum festhalten - das möchte ich gerne mit Euch teilen.
+"
   subtype: presentation
   speakers: [19]
-  language: de
-  service: true
 -
   id: 316
   title: "Die Angst vor der Augenhöhe - von der Angstkultur zur Vertrauenskultur"
-  description: "tba."
+  description: "Seit 22 Jahren bin ich beruflich tätig und hatte in dieser Zeit sehr unterschiedliche Berufe, Entwicklungshilfeconsultant, Messeveranstalter für den Biomarkt, Unternehmensberaterin und Coach bis zum Scrum Master heute in der IT Branche. Ich möchte Branchen, Führungsstile und die Effekte aus meiner Erfahrung vergleichen und erlebte Geschichten erzählen, die zeigen welche Auswirkungen es hat, wenn wir uns trauen oder nicht trauen auf Augenhöhe zu arbeiten."
   subtype: presentation
   speakers: [20]
-  language: de
-  service: true
