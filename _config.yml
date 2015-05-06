@@ -72,7 +72,7 @@ statisticBlock:
  - {count: "100", specialCharacter: "+", info: "Teilnehmer", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
  - {count: "20", specialCharacter: "+", info: "Stunden", detail: "Austausch über moderne Arbeitswelten"}
  - {count: "20", specialCharacter: "+", info: "Referenten", detail: "aus ganz Deutschland, Österreich und der Schweiz"}
- - {count: "2", specialCharacter: "", info: "parallele Tracks", detail: "plus Lounge"}
+ - {count: "17", specialCharacter: "+", info: "Sessions", detail: "zum Thema 'Neue Organisationsformen' und 'Neue Arbeitsweisen'"}
 
 # Latest News Block
 latestNewsTitle: "Neuigkeiten"
