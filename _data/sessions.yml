@@ -1,6 +1,6 @@
 -
   id: 001
-  title: "Registrierung"
+  title: "Einlass & Registrierung"
   place: "Aula"
   service: true
 -
@@ -25,17 +25,17 @@
   service: true
 -
   id: 006
-  title: "Vorführung des Filmes 'Augenhöhe' als Ausklang der Veranstaltung"
+  title: "Vorführung des Filmes 'Augenhöhe' | Ausklang der Veranstaltung"
   place: "Aula"
   service: true
 -
   id: 007
-  title: "Begrüßung, Vorstellung Open Space, Themen sammeln"
+  title: "Begrüßung | Vorstellung Open Space | Themen sammeln"
   place: "Aula"
   service: true
 -
   id: 008
-  title: "Kurzvorstellung der Session-Ergebnisse, Abschluss  durch die Veranstalter & Ausklang der Veranstaltung"
+  title: "Kurzvorstellung der Session-Ergebnisse | Abschluss  durch die Veranstalter & Ausklang der Veranstaltung"
   place: "Aula"
   service: true
 -
