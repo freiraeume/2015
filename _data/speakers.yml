@@ -2,13 +2,19 @@
   id: 1
   surname: "Pflaeging"
   name: "Niels"
-  company: ""
+  company: "nielspflaeging. & BetaCodex Network Associate"
   title: ""
-  bio: ""
-  thumbnailUrl: 
+  bio: "Niels Pfläging ist Berater, Beeinflusser und Autor mit Wohnsitz in Wiesbaden und New York. Er ist ein leidenschaftlicher, aber auch pragmatischer Business Vordenker. Pflägings Bücher wurden von der Kritik gelobt und entwickelten sich zu Bestsellern. In Führen mit flexiblen Zielen belegte er, dass die Organisation der Zukunft bereits existiert, und zeigte, wie sie funktioniert. Dafür wurde er mit dem Wirtschaftsbuchpreis 2006 von Financial Times und getAbstract ausgezeichnet. Sein aktuelles Buch Organisation für Komplexität war einer der meistgelobten Business-Bestseller des letzten Jahres.
+Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-Source-Netzwerk. Fünf Jahre lang war er Direktor des renommierten Beyond Budgeting Round Table. Als Ratgeber hilft er Managern und Organisationen aller Art in Veränderungs-Prozessen. Er redet nicht nur. Er tut es auch.
+"
+  thumbnailUrl: NielsPflaeging.jpg
   rockstar: true
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "http://www.nielspflaeging.com" }
+    - {name: "email", link: "mailto:niels@nielspflaeging.com" }
+    - {name: "twitter", link: "https://twitter.com/NielsPflaeging" }
+    - {name: "site", link: "http://www.betacodex.org" }
+    - {name: "site", link: "http://www.organizeforcomplexity.com" }
 -
   id: 2
   surname: "Waschk"
@@ -17,7 +23,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -28,7 +34,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -39,7 +45,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -50,7 +56,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -61,7 +67,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -72,7 +78,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -83,7 +89,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -94,7 +100,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -105,7 +111,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -116,7 +122,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -127,7 +133,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -138,7 +144,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -149,7 +155,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -160,7 +166,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -171,7 +177,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -182,7 +188,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -193,7 +199,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -204,7 +210,7 @@
   title: ""
   bio: ""
   thumbnailUrl: 
-  rockstar: true
+  rockstar: false
   social:
   #  - {name: "", link: "" }
 - 
@@ -213,11 +219,18 @@
   name: "Christine"
   company: "ecomenta"
   title: ""
-  bio: ""
-  thumbnailUrl: 
+  bio: "Christine Neidhardt ist seit 14 Jahren mit Ihrer Firma ecomenta führen fördern faszinieren in Nürnberg selbständig. Sie ist mit ganzem Herzen Unternehmensberaterin für offene und wertschätzende Unternehmenskulturen sowie Coach und Trainerin. Sie hat über mehr als 20 Jahre Erfahrung in der Organisation und Durchführung von Veranstaltungen wie Messen, Kongressen, Workshops und Trainings. In der Unternehmensberatung begleitet sie Ihre Kunden von der Geschäftsführungsebene, über die Teamleiter bis zu den Mitarbeitern oft viele Jahre. Ihre Kunden sind vor allem mittelständische, innovative Unternehmen, die das Potential in Ihren Mitarbeitern sehen. Unter Ihren Kunden befinden sich SEIBERT MEDIA, darkhorse (Berlin), Siemens AD, Herrmann International, Alnatura, Naturland Marktgesellschaft, tegut, Davert, memo AG, NürnbergMesse , Schmidtcolleg.
+<br /><br />Die Passion von Christine Neidhardt liegt darin Räume zu kreieren, in denen Menschen sich und Ihre Talente zeigen können. Zehn Jahre hat sie das Wachstum der Internationalen Fachmesse BioFach als Mitveranstalterin, Beraterin und Kongressorganisatorin unterstützt, dann folgte Sie Ihrer Leidenschaft nachhaltige Unternehmen und passionierte Menschen in Ihren Plänen als Coach zu unterstützen. Seit 2010 ist sie aktiver Teil der agilen Community. Hier hat Sie Unternehmen gefunden, die Ihre Unternehmenskultur hin zu einer wertschätzenden, fördernden Lernumgebung verwandeln für Ihre Mitarbeiter und in Ihnen Ihre Zukunft sehen und Menschen entdeckt, die leidenschaftlich an Ihrer Entwicklung arbeiten. Mit der „CultureApp“ Temenos kreiert Sie Räume wertschätzender Kommunikation für Unternehmen, fördert das WIR Gefühl und die Entwicklung der Menschen.
+<br /><br />Christine Neidhardt ist Mitinitiatorin der Play4Agile sowie des Speaker Kongress Perspektive gewinnen, Sprecherin auf nationalen Konferenzen (OOP, XP Days), Track Chair des Agile Interactive Days der JAX 2014 und Initiatorin der Culture Hacking Gruppe in Nürnberg. Darüber hinaus ist sie systemischer Coach (2003), innergame Trainerin (2005), Mastertrainerin von Herrmann International seit 2006, Integraler Coach Innere Form (2010), Temenos Facilitator (2013)."
+  thumbnailUrl: cn.jpg
   rockstar: true
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://www.xing.com/profile/Christine_Neidhardt" }
+    - {name: "email", link: "mailto:info@ecomenta.de" }
+    - {name: "twitter", link: "https://twitter.com/teamfuture17" }
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ChristineNeidhardt/posts" }
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/christine-neidhardt/1/226/37a" }
+    - {name: "facebook", link: "https://www.facebook.com/christine.neidhardt" }
 #- 
 #  id: 103
 #  name: "Pflaeging"
