@@ -23,16 +23,16 @@ organizerLink: "http://www.freiraum.camp/"
 # Head
 metaKeywords: "event, agile, lean, development, organisation, change, veränderung, augenhöen, intrinsify, hannover"
 twitterAccount: "@freiraum"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Sessions"}
- - {permalink: "/speakers/", text: "Referenten"}
+# - {permalink: "/speakers/", text: "Referenten"}
  - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Veranstaltungsort"}
 bottomNavigationLinks:
@@ -70,10 +70,10 @@ statisticBlock:
 latestNewsTitle: "Neuigkeiten"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstars der modernen Arbeitswelt"
-rockstarSpeakersButtonText: "Wer spricht alles auf dem den freiräume.camp 2015?"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle: "Rockstars der modernen Arbeitswelt"
+#rockstarSpeakersButtonText: "Wer spricht alles auf dem den freiräume.camp 2015?"
 
 # Location Block
 locationBlockTitle: "Wo?"
