@@ -196,13 +196,14 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 17
   surname: "Neuss"
   name: "Lukas"
-  company: "neuss.cc"
-  title: ""
+  company: "Lukas Neuß Consulting"
+  title: "Social Media Consultant"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: ln.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://www.xing.com/profile/Lukas_Neuss" }
+    - {name: "site", link: "www.neuss.cc"}
 - 
   id: 18
   surname: "Krause"
