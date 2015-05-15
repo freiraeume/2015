@@ -18,24 +18,24 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 2
   surname: "Waschk"
   name: "Stefan"
-  company: "Volkswagen AG"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "Volkswagen AG, Wolfsburg"
+  title: "Leitung Agile Center of Excellence & DSL Build"
+  bio: "Stefan Waschk ist Leiter einer IT Software Factory. Stefan ist langjähriger Projektleiter in diversen Konzernprojekten, Sprecher der agilen Community der Volkswagen AG und verantwortlich für das Agile Center of Excellence (ACE) im Konzern."
+  thumbnailUrl: sw.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "http://www.volkswagen.de" }
 - 
   id: 3
   surname: "Wefers"
   name: "Thorsten"
-  company: "Volkswagen AG"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "Volkswagen AG, Wolfsburg"
+  title: "Agile Coach, Software-Architekt"
+  bio: "Thorsten Wefers gestaltet als ACE Kernteammitglied agile Methoden bei Volkswagen und sorgt als Scrum-Lotse und Trainer für einen reibungslosen Start von Scrum in Projektteams. Er berät Projekte und Entscheider bei der Einführung und nachhaltigen Etablierung agiler Softwareentwicklung."
+  thumbnailUrl: tw.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "http://www.volkswagen.de" }
 - 
   id: 4
   surname: "Rudnick"
