@@ -70,17 +70,17 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   social:
     - {name: "site", link: "https://www.xing.com/profile/Marco_Nauber" }
 - 
-  id: 7
-  surname: "Heines"
-  name: "Anke"
-  company: "LEADaktiv UG"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false
-  social:
+#  id: 7
+#  surname: "Heines"
+#  name: "Anke"
+#  company: "LEADaktiv UG"
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: 
+#  rockstar: false
+#  social:
   #  - {name: "", link: "" }
-- 
+#- 
   id: 8
   surname: "Mohme"
   name: "Matthias"
@@ -230,6 +230,21 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
     - {name: "google-plus", link: "https://plus.google.com/u/0/+ChristineNeidhardt/posts" }
     - {name: "linkedin", link: "https://www.linkedin.com/pub/christine-neidhardt/1/226/37a" }
     - {name: "facebook", link: "https://www.facebook.com/christine.neidhardt" }
+- 
+  id: 21
+  surname: "Dehner"
+  name: "Dr. Klaus"
+  company: "LEADaktiv UG"
+  title: "Umsetzungsbegleiter für agile Transformation"
+  bio: "Für den Kompetenzbereich 'Gemeinsames Handeln' steht der Name Dr. Klaus Dehner im LEADaktiv Team. Dahinter verbirgt sich seine Begeisterung für die Zusammenführung ganz unterschiedlicher Fachgebiete: Biologie, Pädagogik und Sinologie. 
+<br /><br />Wie kein anderer versteht es Klaus, die Wurzeln für menschliches Verhalten zurück zu verfolgen und offen zu legen. Seine aus den verschiedenen Disziplinen gespeiste Betrachtungsweise fördert immer wieder überraschende Erkenntnisse zutage. 
+<br /><br />Als Autor mehrerer Fachbücher liefert er das wissenschaftliche Fundament für die evolutionären Antriebe unseres Verhaltens. Dabei greift er gerne auf anschauliche Beispiele aus der Tierwelt zurück. 
+<br /><br />Seine unterhaltsame Vermittlung komplexer Sachverhalte und sein tief gehendes Verständnis von Individual- und Gruppenverhalten machen Klaus nicht nur zu einem gefragten Redner, sondern auch zu einem idealen Begleiter für agile Transformationen.
+"
+  thumbnailUrl: kd.png
+  rockstar: false
+  social:
+    - {name: "site", link: "http://leadaktiv.de" }
 #- 
 #  id: 103
 #  name: "Pflaeging"
