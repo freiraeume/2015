@@ -23,12 +23,12 @@
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionIds: [301, 302]
+        sessionIds: [301, 304]
     }
     - {
         startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [303, 304]
+        sessionIds: [303, 302]
     }
     - {
         startTime: "13:00",
@@ -38,7 +38,7 @@
     - {
         startTime: "13:30",
         endTime: "14:30",
-        sessionIds: [305, 306]
+        sessionIds: [305, 316]
     }
     - {
         startTime: "14:30",
@@ -111,7 +111,7 @@
     - {
         startTime: "14:00",
         endTime: "15:00",
-        sessionIds: [316, 201, 201]
+        sessionIds: [306, 201, 201]
     }
     - {
         startTime: "15:00",

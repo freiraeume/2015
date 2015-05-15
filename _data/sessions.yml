@@ -65,24 +65,6 @@
   subtype: presentation
   speakers: [2, 3]
 -
-  id: 302
-  title: "Wozu noch Führung? – Einblick in ein »Engagement auf Augenhöhe«"
-  description: "Es ist nicht verwunderlich, dass das I. Q. Institut für Qualität im Management auf eine Veranstaltung mit den Begriffen »Freiraum« und »auf Augenhöhe« aufmerksam wird, schließlich haben wir uns das »Engagement auf Augenhöhe« als Claim selbst auf die Fahnen geschrieben und bieten mit unseren »FreiRäumen« Orte für Zusammenarbeit an. Glücklicherweise sind die Überschneidungen nicht nur wortwörtlicher Art: Wir sind bereits seit vielen Jahren als Berater für Führungskräfte tätig und Experten für Fragen der Organisationsentwicklung, Veränderungs- und Umsetzungsberatung sowie Führungskräfteentwicklung.
-<br /><br />Dennoch oder gerade deshalb treiben uns schon seit einiger Zeit die Fragen um, die nun auch in den Medien, im akademischen Kontext oder Veranstaltung wie dieser intensiv diskutiert werden: Wie kann Zusammenarbeit heute aussehen und welche Formen finden wir, ExpertInnen auch kurzfristig zu einer erfolgreichen Projektgruppe zu formieren? Warum finden nur wenige der bereits vorhandenen Tools Einzug in den Alltag? Was bedeutet Führung und vor allem: Brauchen wir überhaupt noch Führungskräfte? 
-<br /><br />Unsere Erfahrung zeigt: Eine Gruppe von Experten, von erwachsenen Menschen, benötigt keinen Dompteur, Vorangeher, Zurechtweiser, Entscheider. Sie benötigt einen geeigneten Rahmen, Methoden und Tools um Erfahrung, Wissen und Kreativität in den produktiven Prozess einzubringen und ihn gemeinsam zu gestalten. Sie benötigt ein gemeinsames Leitbild und Personen, die die Zusammenarbeit fördern und in Konflikten geschickt und empathisch als Mediator wirken.
-<br /><br />In unserem Konzept »Die Gruppe als Denkeinheit« geben wir diesem Thema eine geeignete Plattform. In einem Spannungsfeld unterschiedlicher Persönlichkeiten, Meinungen, Haltungen und Interessen gelingt es durch wirkungsvolle Methoden, Synergien für Produktivität und Innovation entstehen zu lassen. So lässt sich das Potenzial aller nutzen. Durch unseren besonderen Ansatz entwickelt sich die Haltung der Gruppenmitglieder von einem Gefühl der Notwendigkeit zu einem freiwilligen Mitgehen hin zu besseren Ergebnissen, produktiven Treffen und einer leistungsfähigen Denkeinheit.
-"
-  subtype: presentation
-  speakers: [4]
--
-  id: 303
-  title: "Agile Unternehmenskultur bei MovingImage24"
-  description: "Agile Methoden wie Scrum und Kanban wurden auch bei MovingIMAGE24 in der Software-entwicklung angewendet. Das Arbeiten mit agilen Methoden allein sichert noch keinen nachhaltigen Erfolg für das Unternehmen.  Das Problem bei uns war, dass die Entwicklungsabteilung isoliert und durch die agile Arbeitsweise wie ein Fremdkörper im Unternehmen wahrgenommen wurde. Die Werte, die bei Scrum wichtig sind, kann man nur leben, wenn im gesamten Unternehmen ein agiles Verständnis vorherrscht. 
-<br /><br />Deswegen haben wir uns entschieden das gesamte Unternehmen zu revolutionieren und ein eigenes Framework auf Basis von Scrum zu entwickeln. Wir sind der Meinung, ohne eine agile Unternehmenskultur ist Scrum zum Scheitern verurteilt. Was bedeutet agile Unternehmenskultur? Was muss sich im Unternehmen grundsätzlich ändern? Wie kann man Scrum skalieren? Wie kann man komplette Transparenz erzeugen? Diese und weitere Fragen werden wir bei unserem Vortrag anhand von Videos und Grafiken erläutern.
-"
-  subtype: presentation
-  speakers: [5, 6]
--
   id: 304
   title: "Anders besser - die neue Art der Zusammenarbeit"
   description: "Alle sind am Rotieren, doch die Ergebnisse lassen zu wünschen übrig? Kommt Dir das bekannt vor? Die Erfahrung aus der Praxis hat gezeigt, dass fast alle Unternehmen in Optimierungsprozessen gefangen sind. 
@@ -92,6 +74,24 @@
 "
   subtype: presentation
   speakers: [21]
+-
+  id: 303
+  title: "Agile Unternehmenskultur bei MovingImage24"
+  description: "Agile Methoden wie Scrum und Kanban wurden auch bei MovingIMAGE24 in der Software-entwicklung angewendet. Das Arbeiten mit agilen Methoden allein sichert noch keinen nachhaltigen Erfolg für das Unternehmen.  Das Problem bei uns war, dass die Entwicklungsabteilung isoliert und durch die agile Arbeitsweise wie ein Fremdkörper im Unternehmen wahrgenommen wurde. Die Werte, die bei Scrum wichtig sind, kann man nur leben, wenn im gesamten Unternehmen ein agiles Verständnis vorherrscht. 
+<br /><br />Deswegen haben wir uns entschieden das gesamte Unternehmen zu revolutionieren und ein eigenes Framework auf Basis von Scrum zu entwickeln. Wir sind der Meinung, ohne eine agile Unternehmenskultur ist Scrum zum Scheitern verurteilt. Was bedeutet agile Unternehmenskultur? Was muss sich im Unternehmen grundsätzlich ändern? Wie kann man Scrum skalieren? Wie kann man komplette Transparenz erzeugen? Diese und weitere Fragen werden wir bei unserem Vortrag anhand von Videos und Grafiken erläutern.
+"
+  subtype: presentation
+  speakers: [5, 6]
+-
+  id: 302
+  title: "Wozu noch Führung? – Einblick in ein »Engagement auf Augenhöhe«"
+  description: "Es ist nicht verwunderlich, dass das I. Q. Institut für Qualität im Management auf eine Veranstaltung mit den Begriffen »Freiraum« und »auf Augenhöhe« aufmerksam wird, schließlich haben wir uns das »Engagement auf Augenhöhe« als Claim selbst auf die Fahnen geschrieben und bieten mit unseren »FreiRäumen« Orte für Zusammenarbeit an. Glücklicherweise sind die Überschneidungen nicht nur wortwörtlicher Art: Wir sind bereits seit vielen Jahren als Berater für Führungskräfte tätig und Experten für Fragen der Organisationsentwicklung, Veränderungs- und Umsetzungsberatung sowie Führungskräfteentwicklung.
+<br /><br />Dennoch oder gerade deshalb treiben uns schon seit einiger Zeit die Fragen um, die nun auch in den Medien, im akademischen Kontext oder Veranstaltung wie dieser intensiv diskutiert werden: Wie kann Zusammenarbeit heute aussehen und welche Formen finden wir, ExpertInnen auch kurzfristig zu einer erfolgreichen Projektgruppe zu formieren? Warum finden nur wenige der bereits vorhandenen Tools Einzug in den Alltag? Was bedeutet Führung und vor allem: Brauchen wir überhaupt noch Führungskräfte? 
+<br /><br />Unsere Erfahrung zeigt: Eine Gruppe von Experten, von erwachsenen Menschen, benötigt keinen Dompteur, Vorangeher, Zurechtweiser, Entscheider. Sie benötigt einen geeigneten Rahmen, Methoden und Tools um Erfahrung, Wissen und Kreativität in den produktiven Prozess einzubringen und ihn gemeinsam zu gestalten. Sie benötigt ein gemeinsames Leitbild und Personen, die die Zusammenarbeit fördern und in Konflikten geschickt und empathisch als Mediator wirken.
+<br /><br />In unserem Konzept »Die Gruppe als Denkeinheit« geben wir diesem Thema eine geeignete Plattform. In einem Spannungsfeld unterschiedlicher Persönlichkeiten, Meinungen, Haltungen und Interessen gelingt es durch wirkungsvolle Methoden, Synergien für Produktivität und Innovation entstehen zu lassen. So lässt sich das Potenzial aller nutzen. Durch unseren besonderen Ansatz entwickelt sich die Haltung der Gruppenmitglieder von einem Gefühl der Notwendigkeit zu einem freiwilligen Mitgehen hin zu besseren Ergebnissen, produktiven Treffen und einer leistungsfähigen Denkeinheit.
+"
+  subtype: presentation
+  speakers: [4]
 -
   id: 305
   title: "Gestalter statt Opfer sein! Warum sich Organisationen ständig neu entwickeln"
