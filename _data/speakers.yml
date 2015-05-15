@@ -111,13 +111,16 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 10
   surname: "Schwab"
   name: "Stephan"
-  company: "Caimito"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "Caimito Technologies"
+  title: "Software Development Coach"
+  bio: "Ich programmiere seit 1981 und habe seitdem auf einer Vielzahl unterschiedlicher Plattformen und mit etwa 20 verschiedenen Programmiersprachen gearbeitet. Meine eigenen erfolgreichen Fehler und die von anderen führten zu der Erkenntnis, daß viel zu häufig Unternehmen Software entwickeln, die das falsche Problem löst. In meiner aktuellen Tätigkeit konzentriere ich mich vor allem darauf was Anwender und Unternehmen wirklich mit Software machen wollen und wie man Software entwickelt, die Kunden begeistert.
+<br /><br />Ich bin in Deutschland aufgewachsen und habe etwa 5 Jahre in USA und etwa 8 Jahre in verschiedenen Ländern Lateinamerikas gelebt und gearbeitet. Zumindest bisher. Ich spreche fließend Deutsch, Englisch und Spanisch.
+<br /><br />Während meiner Zeit in Panama habe ich Interesse und Begeisterung für das ruhigere Leben auf dem Land, dort eher im Regenwald, gewonnen und habe ausführliche Erfahrung im Umgang mit Pferden, insbesondere Peruanische Gangpferde, machen können. Daneben besitze ich eine Pilotenlizenz mit Instrumentenflugberechtigung und nutze das Kleinflugzeug als flexibles Verkehrsmittel.
+<br /><br />Wenn sich die Gelegenheit ergibt halte ich Vorträge auf nationalen und internationalen Konferenzen oder beteilige mich an Branchentreffen im In- und Ausland."
+  thumbnailUrl: ss.png
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "http://www.caimito.net" }
 - 
   id: 11
   surname: "Ramus"
