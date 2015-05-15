@@ -155,13 +155,14 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 14
   surname: "Lübbermann"
   name: "Uwe"
-  company: "Premium-Cola"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
-  rockstar: false
+  company: "Premium, Hamburg"
+  title: "Kopf von Premium-Cola"
+  bio: "Kopf von Premium-Cola, helfende Hand bei ein paar anderen Getränkemarken, Weltverbesserer in vielen kleinen Schritten."
+  thumbnailUrl: ul.jpg
+  rockstar: true
   social:
-  #  - {name: "", link: "" }
+    - {name: "twitter", link: "https://twitter.com/luebbermann" }
+    - {name: "site", link: "http://www.premium-cola.de"}
 - 
   id: 15
   surname: "Koglin"
