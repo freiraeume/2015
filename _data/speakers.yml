@@ -130,23 +130,27 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   surname: "Herwarth von Bittenfeld"
   name: "Paul"
   company: "//Seibert/Media"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  title: "ScrumMaster, Lean & Agile Evangelist"
+  bio: "Paul Herwarth von Bittenfeld arbeitet seit 2003 bei //SEIBERT/MEDIA mit Software-Entwicklungsteams in verschiedenen Umgebungen zusammen. Zunächst als Projektleiter, später als Product Owner im Scrum-Pilotprojekt von //SEIBERT/MEDIA und im Rahmen der Ausbreitung von agilen Vorgehensweisen im Unternehmen seit nun mehr als vier Jahren als ScrumMaster und Agile-Coach. In den letzten Jahren begleitete er die Einführung von Scrum und Kanban in mehreren Teams und die Einführung agiler Methoden und Vorgehensweisen auf Unternehmensebene."
+  thumbnailUrl: phvb.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://www.xing.com/profile/Paul_HerwarthvonBittenfeld" }
+    - {name: "twitter", link: "https://twitter.com/pherwarth" }
+    - {name: "site", link: "http://seibert.biz/pherwarth" }
+    - {name: "facebook", link: "https://www.facebook.com/paul.herwarth.von.bittenfeld" }
 - 
   id: 13
   surname: "Seibert"
   name: "Joachim"
   company: "//Seibert/Media"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  title: "Agilist, Geschäftsführer und Mitarbeiteranwalt"
+  bio: "Joachim Seibert ist ein überzeugter Verfechter agiler Softwareentwicklung. Ursprünglich Softwareentwickler bei //SEIBERT/MEDIA, war er maßgeblich dafür verantwortlich, dass im Unternehmen agile Methoden eingeführt wurden und zum Standard geworden sind. Er hat es sich zur Hauptaufgabe gemacht, Entwicklungsteams und Unternehmen agiler zu machen und zu besserer Zusammenarbeit zu führen. Dabei hat er auch viel Erfahrung in der Moderation von Großgruppenveranstaltungen gesammelt."
+  thumbnailUrl: js.png
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://www.xing.com/profile/Joachim_Seibert3" }
+    - {name: "twitter", link: "https://twitter.com/jseibert" }
 - 
   id: 14
   surname: "Lübbermann"
