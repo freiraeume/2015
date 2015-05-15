@@ -118,7 +118,7 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
 <br /><br />Während meiner Zeit in Panama habe ich Interesse und Begeisterung für das ruhigere Leben auf dem Land, dort eher im Regenwald, gewonnen und habe ausführliche Erfahrung im Umgang mit Pferden, insbesondere Peruanische Gangpferde, machen können. Daneben besitze ich eine Pilotenlizenz mit Instrumentenflugberechtigung und nutze das Kleinflugzeug als flexibles Verkehrsmittel.
 <br /><br />Wenn sich die Gelegenheit ergibt halte ich Vorträge auf nationalen und internationalen Konferenzen oder beteilige mich an Branchentreffen im In- und Ausland."
   thumbnailUrl: ss.png
-  rockstar: false
+  rockstar: true
   social:
     - {name: "site", link: "http://www.caimito.net" }
 - 
@@ -156,7 +156,7 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   title: "Agilist, Geschäftsführer und Mitarbeiteranwalt"
   bio: "Joachim Seibert ist ein überzeugter Verfechter agiler Softwareentwicklung. Ursprünglich Softwareentwickler bei //SEIBERT/MEDIA, war er maßgeblich dafür verantwortlich, dass im Unternehmen agile Methoden eingeführt wurden und zum Standard geworden sind. Er hat es sich zur Hauptaufgabe gemacht, Entwicklungsteams und Unternehmen agiler zu machen und zu besserer Zusammenarbeit zu führen. Dabei hat er auch viel Erfahrung in der Moderation von Großgruppenveranstaltungen gesammelt."
   thumbnailUrl: js.png
-  rockstar: false
+  rockstar: true
   social:
     - {name: "site", link: "https://www.xing.com/profile/Joachim_Seibert3" }
     - {name: "twitter", link: "https://twitter.com/jseibert" }
@@ -236,7 +236,7 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
 <br /><br />Er ist aktives Mitglied im StoosNetwork und bei intrinsify.me.
 <br /><br />Wenn er nicht gerade die Welt verbessert, spielt er gerne auf seiner Ukulele, oder kooperative Brettspiele mit seinen Freunden. Alternativ macht er es sich mit Frau, Katze und einem Glas Rotwein bei einem guten Film gemütlich."
   thumbnailUrl: ip.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/ipreuss" }
     - {name: "facebook", link: "https://www.facebook.com/iljapreuss" }

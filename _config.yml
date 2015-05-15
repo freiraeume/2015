@@ -70,10 +70,10 @@ statisticBlock:
 latestNewsTitle: "Neuigkeiten"
 
 # Rockstar Speakers Block
-#rockstarSpeakersImage: "rockstar-speakers.jpg"
-#rockstarSpeakersCount: 4
-#rockstarSpeakersTitle: "Rockstars der modernen Arbeitswelt"
-#rockstarSpeakersButtonText: "Wer spricht alles auf dem den freiräume.camp 2015?"
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 6
+rockstarSpeakersTitle: "Rockstars der modernen Arbeitswelt"
+rockstarSpeakersButtonText: "Wer spricht alles auf dem den freiräume.camp 2015?"
 
 # Location Block
 locationBlockTitle: "Wo?"
