@@ -181,12 +181,13 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   surname: "Leppelt"
   name: "Peter"
   company: "Praemandatum"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  title: "Geschäftsführer"
+  bio: "Peter Leppelt ist Geschäftsführer der praemandatum GmbH in Hannover, die er 2008 gegründet hat. praemandatum entwickelt für Unternehmen und Institutionen Methoden zur Datenvermeidung, Konzepte für den technischen Datenschutz, Maßnahmen für mehr Datenverantwortung und Strategien, um all das medien- und marketingwirksam darzustellen. 
+<br /><br />Nach seinem Studium der Elektro- und Informationstechnik in Hannover war er als Projektingenieur im Bereich der Datenanalyse und als Wissenschaftlicher Mitarbeiter an der Universität Hannover tätig."
+  thumbnailUrl: pl.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://praemandatum.de" }
 - 
   id: 17
   surname: "Neuss"
