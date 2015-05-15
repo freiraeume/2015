@@ -224,13 +224,19 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 19
   surname: "Preuß"
   name: "Ilja"
-  company: "IT-Agile"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "it-agile GmbH"
+  title: "Agile Coach"
+  bio: "Ilja kommt ursprünglich aus der Softwareentwicklung und ist vor fünf Jahren zur it-agile GmbH gewechselt, um selbstbestimmter arbeiten zu können. Seitdem unterstützt er seine Kunden dabei, Selbstorganisation im Unternehmen zu verbreiten - vor allem beschäftigt ihn dabei die Frage, wie die Organisation um Teams herum aussehen kann, um selbige bestmöglich zu unterstützen.
+<br /><br />Er ist aktives Mitglied im StoosNetwork und bei intrinsify.me.
+<br /><br />Wenn er nicht gerade die Welt verbessert, spielt er gerne auf seiner Ukulele, oder kooperative Brettspiele mit seinen Freunden. Alternativ macht er es sich mit Frau, Katze und einem Glas Rotwein bei einem guten Film gemütlich."
+  thumbnailUrl: ip.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "twitter", link: "https://twitter.com/ipreuss" }
+    - {name: "facebook", link: "https://www.facebook.com/iljapreuss" }
+    - {name: "linkedin", link: "http://linkedin.com/in/iljapreuss" }
+    - {name: "site", link: "https://www.xing.com/profile/Ilja_Preuss" }
+    - {name: "site", link: "http://www.it-agile.de"}
 - 
   id: 20
   surname: "Neidhardt"
