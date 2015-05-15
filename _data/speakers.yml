@@ -85,12 +85,15 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   surname: "Mohme"
   name: "Matthias"
   company: "Hood Group"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  title: "Consultant"
+  bio: "In den ersten Berufsjahren als Konstrukteur im klassischen Maschinenbau tätig, entdeckte ich in den darauf folgenden Jahren als Produktmanager meine Leidenschaft für SCRUM und KANBAN in der Softwareentwicklung. Ich erkannte, das Probleme selten technischer, sondern größtenteils soziologischer Natur sind.
+<br /><br />Während eines 6 monatigen Intermezzos bei einem großen süddeutschen Anlagenbauers bin ich mir über meine Werte und Ziele klar geworden und konnte erstmals formulieren, was ich von meinem zukünftigen Arbeitgeber tatsächlich erwarte.
+<br /><br />Meine Erfahrungen und Beobachtungen, wie sich die Einführung agiler Methoden auf Mitarbeiter, Teams und ganzen Organisationen auswirkt, gebe ich als Consultant bei der HOOD GmbH weiter."
+  thumbnailUrl: mm.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://www.xing.com/profile/Matthias_Mohme " }
+    - {name: "twitter", link: "https://twitter.com/matthiasmohme"}
 - 
   id: 9
   surname: "Açar"
