@@ -11,7 +11,6 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   rockstar: true
   social:
     - {name: "site", link: "http://www.nielspflaeging.com" }
-    - {name: "email", link: "mailto:niels@nielspflaeging.com" }
     - {name: "twitter", link: "https://twitter.com/NielsPflaeging" }
     - {name: "site", link: "http://www.betacodex.org" }
     - {name: "site", link: "http://www.organizeforcomplexity.com" }
@@ -226,7 +225,6 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   rockstar: true
   social:
     - {name: "site", link: "https://www.xing.com/profile/Christine_Neidhardt" }
-    - {name: "email", link: "mailto:info@ecomenta.de" }
     - {name: "twitter", link: "https://twitter.com/teamfuture17" }
     - {name: "google-plus", link: "https://plus.google.com/u/0/+ChristineNeidhardt/posts" }
     - {name: "linkedin", link: "https://www.linkedin.com/pub/christine-neidhardt/1/226/37a" }
