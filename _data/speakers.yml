@@ -7,7 +7,7 @@
   bio: "Niels Pfläging ist Berater, Beeinflusser und Autor mit Wohnsitz in Wiesbaden und New York. Er ist ein leidenschaftlicher, aber auch pragmatischer Business Vordenker. Pflägings Bücher wurden von der Kritik gelobt und entwickelten sich zu Bestsellern. In Führen mit flexiblen Zielen belegte er, dass die Organisation der Zukunft bereits existiert, und zeigte, wie sie funktioniert. Dafür wurde er mit dem Wirtschaftsbuchpreis 2006 von Financial Times und getAbstract ausgezeichnet. Sein aktuelles Buch Organisation für Komplexität war einer der meistgelobten Business-Bestseller des letzten Jahres.
 Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-Source-Netzwerk. Fünf Jahre lang war er Direktor des renommierten Beyond Budgeting Round Table. Als Ratgeber hilft er Managern und Organisationen aller Art in Veränderungs-Prozessen. Er redet nicht nur. Er tut es auch.
 "
-  thumbnailUrl: 
+  thumbnailUrl: np.jpg
   rockstar: true
   social:
     - {name: "site", link: "http://www.nielspflaeging.com" }
@@ -94,14 +94,15 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
 - 
   id: 9
   surname: "Açar"
-  name: "Ahmet"
-  company: ""
+  name: "Ahmet Emre"
+  company: "freier Berater"
   title: ""
-  bio: ""
-  thumbnailUrl: 
+  bio: "M.A. in Kommunikation und Informatik. Derzeit berate ich Mittelständler und Konzerne in Digital Transformation und Design Thinking Projekten (Bertelsmann, SAP, Unicredit, Allianz, Fraunhofer, Deutsche Bahn...) Letzte Anstellung: Innovation Leader bei General Electric. Hintergrund in Design Thinking: In Potsdam half ich 2007 bei der Gründung der HPI d-school und initiierte danach diverse Online Communities, Events und Projekte in dem Bereich."
+  thumbnailUrl: aea.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "linkedin", link: "https://de.linkedin.com/in/ahmetemreacar  " }
+    - {name: "site", link: "http://ahmetemreacar.info/about/ "}
 - 
   id: 10
   surname: "Schwab"
