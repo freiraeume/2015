@@ -202,13 +202,18 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 18
   surname: "Krause"
   name: "Alexander"
-  company: "AGIL INFORM"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "agil-inform"
+  title: "Betriebswirt, Design-Thinker und Scrum Coach"
+  bio: "Alexander Krause hat als Fotograf gelernt, genau hinzusehen. Als Betriebswirt, Design Thinker und Scrum Coach beschäftigt er sich mit den Themen Agilität, Intrapreneurship, Innovation und Business Modelling. Seine Neugier, Offenheit und Kommunikationsfreude machen den gebürtigen Berliner zu einem idealen Vermittler zwischen den verschiedenen Beteiligten in Innovations- und Produktentwicklungsprozessen.
+<br /><br />Unterschiedliche Perspektiven empfindet Alexander Krause als wertvollen Schatz. Daher fasziniert ihn an agilen Methoden, wie Menschen unterschiedlicher Disziplinen ihr Wissen teilen, ständig erweitern und damit nicht nur ihre Produktivität steigern, sondern auch mehr persönliche Zufriedenheit in ihrer Arbeit erleben.
+<br /><br />Seine Aufgabe ist die Senkung des Cortisol-Spiegels (Stresshormon) in mittleren bis großen Unternehmen durch die Etablierung eines wertschätzenden Umfeldes, die Wiederherstellung der Lieferfähigkeit mit Scrum und die Stärkung des Erfolgsfaktors Innovationskultur mit Design-Thinking."
+  thumbnailUrl: ak.jpg 
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://www.xing.com/profile/Alexander_Krause2" }
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alexanderkrause" }
+    - {name: "twitter", link: "https://twitter.com/agileChanges" }
+    - {name: "facebook", link: "https://www.facebook.com/alexander.krause.790" }
 - 
   id: 19
   surname: "Preuß"
