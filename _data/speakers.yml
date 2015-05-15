@@ -167,12 +167,15 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   surname: "Koglin"
   name: "Patrick"
   company: "Koglin.net"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  title: "Agile Coach & Innovator"
+  bio: "Patrick Koglin ist seit mehr als fünf Jahren in den unterschiedlichsten Branchen und Bereichen der Softwareentwicklung tätig. Achtsamkeit und Reflexion bekamen dabei im Laufe der Zeit einen so wichtigen Stellenwert, dass er darüber ein Buch geschrieben hat. Heute möchte er andere dazu ermutigen, sich kooperativ und dynamisch in der Arbeitswelt zu bewegen. Kurz: agil."
+  thumbnailUrl: pk.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "www.xing.com/profile/Patrick_Koglin" }
+    - {name: "twitter", link: "www.twitter.com/patrickkoglin" }
+    - {name: "site", link: "www.agile-is-limit.de" }
+    - {name: "site", link: "www.agile-tools.de" }
 - 
   id: 16
   surname: "Leppelt"
