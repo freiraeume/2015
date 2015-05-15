@@ -40,13 +40,14 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 4
   surname: "Rudnick"
   name: "Jürgen"
-  company: "I.Q. Institut für Qualität im Management"
-  title: ""
-  bio: ""
-  thumbnailUrl: 
+  company: "I.Q. Institut für Qualität im Management GbR"
+  title: "Geschäftsführender Gesellschafter"
+  bio: "Jürgen Rudnick ist Industriekaufmann und Betriebswirt mit über 30-jähriger Führungs- und Vertriebserfahrung in der IT-Branche. Seit 1989 ist er erfolgreich in der Unternehmensberatung tätig. 1998 hat er I.Q. mitgegründet und ist seitdem geschäftsführender Gesellschafter."
+  thumbnailUrl: jr.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "site", link: "https://www.xing.com/profile/Juergen_Rudnick" }
+    - {name: "site", link: "http://iq-hannover.de" }
 - 
   id: 5
   surname: "Erdal"
