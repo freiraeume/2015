@@ -121,13 +121,15 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   id: 11
   surname: "Ramus"
   name: "Thorsten"
-  company: "Hannover Impuls"
-  title: ""
+  company: "hannoverimpuls GmbH"
+  title: "Projektleiter Gründungswerkstatt"
   bio: ""
-  thumbnailUrl: 
+  thumbnailUrl: tr.jpg
   rockstar: false
   social:
-  #  - {name: "", link: "" }
+    - {name: "twitter", link: "https://twitter.com/ThorstenRamus" }
+    - {name: "site", link: "https://www.xing.com/profile/Thorsten_Ramus2" }
+    - {name: "site", link: "http://www.wirtschaftsfoerderung-hannover.de" }
 - 
   id: 12
   surname: "Herwarth von Bittenfeld"
