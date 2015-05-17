@@ -184,10 +184,10 @@ Pfläging ist Mitbegründer des BetaCodex Network, einem internationalen Open-So
   thumbnailUrl: pk.jpg
   rockstar: false
   social:
-    - {name: "site", link: "www.xing.com/profile/Patrick_Koglin" }
-    - {name: "twitter", link: "www.twitter.com/patrickkoglin" }
-    - {name: "site", link: "www.agile-is-limit.de" }
-    - {name: "site", link: "www.agile-tools.de" }
+    - {name: "site", link: "https://www.xing.com/profile/Patrick_Koglin" }
+    - {name: "twitter", link: "https://www.twitter.com/patrickkoglin" }
+    - {name: "site", link: "http://www.agile-is-limit.de" }
+    - {name: "site", link: "http://www.agile-tools.de" }
 - 
   id: 16
   surname: "Leppelt"
