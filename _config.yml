@@ -10,22 +10,17 @@ email: "kontakt@freiraum.camp"
 description: "Das freiraum.camp 2015 ist eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
 baseurl: "/2015"
 url: "http://freiraeume.github.io"
-#permalink: "/blog/:title"
 
 # Organizer Info
 organizerName: "freiraum 2015"
 organizerAlternateName: "freiraum.camp 2015"
 organizerDescription: "Das freiraum.camp 2015 ist eine Begegnungsstätte für alle, die sich mit modernen Arbeitswelten beschäftigen (wollen)..."
 organizerEmail: "kontakt@freiraum.camp"
-#organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.freiraum.camp/"
 
 # Head
 metaKeywords: "event, agile, lean, development, organisation, change, veränderung, augenhöen, intrinsify, hannover"
 twitterAccount: "@freiraum"
-#socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-#socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Navigation
 navigationLinks:
@@ -34,7 +29,6 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Sessions"}
  - {permalink: "/speakers/", text: "Referenten"}
  - {permalink: "/team/", text: "Team"}
-# - {permalink: "/logistics/", text: "Veranstaltungsort"}
 bottomNavigationLinks:
  - {link: "./schedule/", text: "Zur Agenda >>>"}
  - {link: "http://de.amiando.com/ZDVKXIJ.html", text: "Ticket(s) kaufen"}
@@ -56,7 +50,6 @@ heroButtons:
 aboutTitle: "Über das freiraum.camp 2015"
 aboutBlock:
  - {title: "Konferenz", image: "conference.jpg", text: "Höre, welche Erfahrungen bisher gesammelt worden sind und hole Dir Anregungen für Deine Arbeitswelt!" }
-# - {title: "Barcamp", image: "workshop.jpg", text: "Teile Deine Erfahrungen spontan und hol Dir Feedback von den Teilnehmern!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -91,31 +84,15 @@ eventPlaceCoordinates: "52.386168, 9.733600"
 mapCenterCoordinates: "52.386168, 9.733600"
 mapMobileCenterCoordinates: "52.386168, 9.733600"
 
-# Venue Block
-#venueBlockTitle: "Veranstaltungsort"
-#venueBigImage: "venue_0.jpg"
-#venueSmallImage1: "venue_1.jpg"
-#venueSmallImage2: "venue_2.jpg"
-#venueSmallImage3: "venue_3.jpg"
-#venueTitle: "Haus der Wirtschaftsförderung"
-#venueFeatures: []
-
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Was geht?"
 twitterHashTag: "frrm15"
-#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
 #organizersTitle: "Organizers"
 #partnersTitle: "Partners"
 #partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-#subscribeImage: "subscribe.jpg"
-#subscribeTitle: "Subscribe for updates"
-#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Ticketpreis(e)"
@@ -145,16 +122,10 @@ ticketsOffers:
 
 # Footer
 socialLinks:
-# - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=freiraumcamp", icon: "twitter"}
  - {link: "https://www.facebook.com/pages/freiraumcamp-2015-Konferenz-und-Barcamp-f%C3%BCr-moderne-Arbeitswelten/1567028996917350", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
-# -
-#  title: "Links"
-#  links:
-#   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-#   - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Kontakt"
   links:
@@ -175,47 +146,3 @@ showSessions: true
 # Team Block
 teamBlockTitle: "Über uns"
 aboutUs: "Wir haben die Erfahrung gemacht, dass der ausschließliche Fokus auf Prozesse Organisationen nicht unbedingt weiterbringt. Vielmehr bedarf es in den meisten Fällen einer signifikanten Veränderung der Arbeitskultur & -welt der von der Veränderung betroffenen Personen. Wir möchten euch mit dieser Veranstaltung zu einem gemeinsamen Lernen aus bisherigen Erfahrungen und einem Dialog darüber einladen. Ihr habt damit die Gelegenheit, aus dieser Veranstaltung neue Ideen und Inspirationen für eure Arbeitswelt mitzunehmen."
-
-# Logistics Find Way Block
-#findWayTitle: "Find your way here"
-#findWayDistance: "Distance"
-#findWayDriving: "DRIVING"
-#findWayWalking: "WALKING"
-#findWayBicycling: "BICYCLING"
-#findWayTransit: "TRANSIT"
-#findWayFindFlight: "Find Flight"
-#logisticsMapCenterCoordinates: "49.056728, 3.117289"
-#logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
-
-# Logistics Direction Details Block
-#directionDetailsImage: "direction-details.jpg"
-#directionDetailsTitle: "Get around Lviv"
-#directionDetailsCards:
-# - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
-# - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
-# - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-#directionDetailsWideCards:
-# -
-#  title: "Questions?"
-#  subCards:
-#   -
-#    title: "Hotels"
-#    links:
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#   -
-#    title: "Registration"
-#    links:
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-#   -
-#    title: "Attendance Details"
-#    links:
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
