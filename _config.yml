@@ -111,9 +111,10 @@ ticketsOffers:
   ticketsNumber: "100"
   featured: true
   buyButtonLink: "http://de.amiando.com/ZDVKXIJ.html"
-  buyButtonText: "Ticket(s) kaufen!"
+  buyButtonText: "Ausverkauft"
   validFrom: "2015-05-01T10:00"
   validThrough: "2015-05-28T23:59"
+  disabled: true
 
 # Footer
 socialLinks:
