@@ -7,7 +7,7 @@ isStaticPost: false
 
 **Am Freitag und Samstag findet das erste freiraum.camp "Arbeiten auf Augenhöhe" in Hannover statt. Wir sind schon auf die Vorträge und Gespräche gespannt.**
 
-Über das Thema "Arbeiten auf Aufgenhöhe" wird im Moment viel diskutiert. In diesem Jahr sind uns dazu drei Dokumentationen aufgefallen:
+Über das Thema "Arbeiten auf Augenhöhe" wird im Moment viel diskutiert. In diesem Jahr sind uns dazu drei Dokumentationen aufgefallen:
 
 * [AUGENHÖHE](http://augenhoehe-film.de/): Sven Franke vom Team hat die Idee von Augenhöhe vor kurzen in einer WDR-Talkshow /1, 1:13:01/ gut zusammengefasst. Kann man sehen, wie anderes Arbeiten aussieht? Ja, man kann. Herausgekommen ist ein ausführlicher [Besuchsbericht](http://www.teamworkblog.de/2015/02/bitte-seht-euch-den-film-augenhohe-an.html). 
 * [Mein wunderbarer Arbeitsplatz](http://www.arte.tv/guide/de/051637-000/mein-wunderbarer-arbeitsplatz): "Le bonheur au travail" wurde wie Augenhöhe ebenfalls als [Webprojekt](http://www.touscoprod.com/fr/project/produce?id=846) gestartet. Die Macher wollten nicht nur Probleme der heutigen Arbeitswelt zeigen, sondern auch neugierig auf Lösungen machen. Die Macher Martin Meissonnier, Laurence Uebersfeld und Isaac Getz haben verschiedene Unternehmen besucht und Hintergründe recherchiert. In einem Interview mit L'usine Nouvelle /2/ erzählt Martin Meissonnier, dass es gar nicht so leicht ist, glückliche Mitarbeiter zu filmen. Das kommt zu schnell als Werbung rüber. Es sei viel einfacher Missstände zu filmen als authentisch Lösungen zu zeigen.
