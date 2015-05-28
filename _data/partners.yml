@@ -3,6 +3,7 @@
   elements: 
     - {name: "improuv", description: "improuv GmbH", link: "http://www.improuv.com", imageUrl: "improuv.jpg", width: "400px"}
     - {name: "tecRacer", description: "tecRacer", link: "http://www.tecracer.de", imageUrl: "tecRacer.jpg", width: "400px"}
+    - {name: "Veränderungskraft", description: "Veränderungskraft", link: "http://www.veraenderungskraft.de", imageUrl: "vk.png", height: "100px !important"}
     - {name: "Commonsense-Team", description: "Commonsense-Team", link: "http://www.commonsenseteam.de", imageUrl: "CST.png", height: "100px !important"}
 - 
   group: "Kooperationspartner"
